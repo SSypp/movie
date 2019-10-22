@@ -1,5 +1,6 @@
 import React, { Component } from "react"
 import { HashRouter, Route, Link } from "react-router-dom";
+
 import { Layout, Menu, Icon } from 'antd';
 const { SubMenu } = Menu;
 const { Header, Content, Footer, Sider } = Layout;
@@ -7,6 +8,10 @@ const { Header, Content, Footer, Sider } = Layout;
 // 引入App.scss
 // import AppStyle from "./css/appStyle.scss"
 import "./css/appStyle.scss"
+
+import Home from "./components/Home/home.jsx"
+import About from "./components/About/about.jsx"
+import Movie from "./components/Movie/movie.jsx";
 
 export default class App extends Component {
     constructor(props) {
@@ -23,12 +28,12 @@ export default class App extends Component {
                         <Menu
                             theme="dark"
                             mode="horizontal"
-                            defaultSelectedKeys={['2']}
+                            defaultSelectedKeys={window.location.hash.split("/")}
                             style={{ lineHeight: '64px' }}
                         >
-                            <Menu.Item key="1">首页</Menu.Item>
-                            <Menu.Item key="2">电影</Menu.Item>
-                            <Menu.Item key="3">关于</Menu.Item>
+                            <Menu.Item key="home"><Link to="/home">首页</Link></Menu.Item>
+                            <Menu.Item key="movie"><Link to="/movie">电影</Link></Menu.Item>
+                            <Menu.Item key="about"><Link to="/about">关于</Link></Menu.Item>
                         </Menu>
                     </Header>
 
@@ -86,7 +91,9 @@ export default class App extends Component {
                         </Sider>
                         <Layout>
                             <Content style={{ padding: '0 50px' }}>
-                                <div style={{ background: '#fff', padding: 24, minHeight: 280, height: "100%" }}>Content</div>
+                                <Route path="/home" component={Home} exact></Route>
+                                <Route path="/movie" component={Movie}></Route>
+                                <Route path="/about" component={About}></Route>
                             </Content>
                             <Footer style={{ textAlign: 'center' }}>Ant Design ©2018 Created by Ant UED</Footer>
                         </Layout>
