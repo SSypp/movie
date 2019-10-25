@@ -1,0 +1,1899 @@
+{
+  "count": 20,
+  "start": 0,
+  "total": 58,
+  "subjects": [
+    {
+      "rating": {
+        "max": 10,
+        "average": 0,
+        "details": {
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0
+        },
+        "stars": "00",
+        "min": 0
+      },
+      "genres": [
+        "剧情",
+        "爱情"
+      ],
+      "title": "少年的你",
+      "casts": [
+        {
+          "avatars": {
+            "small": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p36798.webp",
+            "large": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p36798.webp",
+            "medium": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p36798.webp"
+          },
+          "name_en": "Dongyu Zhou",
+          "name": "周冬雨",
+          "alt": "https://movie.douban.com/celebrity/1274224/",
+          "id": "1274224"
+        },
+        {
+          "avatars": {
+            "small": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1507879990.66.webp",
+            "large": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1507879990.66.webp",
+            "medium": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1507879990.66.webp"
+          },
+          "name_en": "Jackson Yee",
+          "name": "易烊千玺",
+          "alt": "https://movie.douban.com/celebrity/1340022/",
+          "id": "1340022"
+        },
+        {
+          "avatars": {
+            "small": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1561012942.87.webp",
+            "large": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1561012942.87.webp",
+            "medium": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1561012942.87.webp"
+          },
+          "name_en": "Fang Yin",
+          "name": "尹昉",
+          "alt": "https://movie.douban.com/celebrity/1340310/",
+          "id": "1340310"
+        }
+      ],
+      "durations": [
+        "135分钟"
+      ],
+      "collect_count": 919,
+      "mainland_pubdate": "2019-10-25",
+      "has_video": false,
+      "original_title": "少年的你",
+      "subtype": "movie",
+      "directors": [
+        {
+          "avatars": {
+            "small": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1519542625.12.webp",
+            "large": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1519542625.12.webp",
+            "medium": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1519542625.12.webp"
+          },
+          "name_en": "Derek Tsang",
+          "name": "曾国祥",
+          "alt": "https://movie.douban.com/celebrity/1274534/",
+          "id": "1274534"
+        }
+      ],
+      "pubdates": [
+        "2019-10-25(中国大陆)"
+      ],
+      "year": "2019",
+      "images": {
+        "small": "http://img3.doubanio.com/view/photo/s_ratio_poster/public/p2572160709.webp",
+        "large": "http://img3.doubanio.com/view/photo/s_ratio_poster/public/p2572160709.webp",
+        "medium": "http://img3.doubanio.com/view/photo/s_ratio_poster/public/p2572160709.webp"
+      },
+      "alt": "https://movie.douban.com/subject/30166972/",
+      "id": "30166972"
+    },
+    {
+      "rating": {
+        "max": 10,
+        "average": 7.1,
+        "details": {
+          "1": 132,
+          "2": 1294,
+          "3": 9398,
+          "4": 9442,
+          "5": 2336
+        },
+        "stars": "35",
+        "min": 0
+      },
+      "genres": [
+        "剧情",
+        "动作",
+        "科幻"
+      ],
+      "title": "双子杀手",
+      "casts": [
+        {
+          "avatars": {
+            "small": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p41483.webp",
+            "large": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p41483.webp",
+            "medium": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p41483.webp"
+          },
+          "name_en": "Will Smith",
+          "name": "威尔·史密斯",
+          "alt": "https://movie.douban.com/celebrity/1027138/",
+          "id": "1027138"
+        },
+        {
+          "avatars": {
+            "small": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p32684.webp",
+            "large": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p32684.webp",
+            "medium": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p32684.webp"
+          },
+          "name_en": "Mary Elizabeth Winstead",
+          "name": "玛丽·伊丽莎白·温斯特德",
+          "alt": "https://movie.douban.com/celebrity/1041018/",
+          "id": "1041018"
+        },
+        {
+          "avatars": {
+            "small": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p5321.webp",
+            "large": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p5321.webp",
+            "medium": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p5321.webp"
+          },
+          "name_en": "Clive Owen",
+          "name": "克里夫·欧文",
+          "alt": "https://movie.douban.com/celebrity/1025147/",
+          "id": "1025147"
+        }
+      ],
+      "durations": [
+        "117分钟"
+      ],
+      "collect_count": 114478,
+      "mainland_pubdate": "2019-10-18",
+      "has_video": false,
+      "original_title": "Gemini Man",
+      "subtype": "movie",
+      "directors": [
+        {
+          "avatars": {
+            "small": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p595.webp",
+            "large": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p595.webp",
+            "medium": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p595.webp"
+          },
+          "name_en": "Ang Lee",
+          "name": "李安",
+          "alt": "https://movie.douban.com/celebrity/1054421/",
+          "id": "1054421"
+        }
+      ],
+      "pubdates": [
+        "2019-10-11(美国)",
+        "2019-10-18(中国大陆)"
+      ],
+      "year": "2019",
+      "images": {
+        "small": "http://img1.doubanio.com/view/photo/s_ratio_poster/public/p2570906505.webp",
+        "large": "http://img1.doubanio.com/view/photo/s_ratio_poster/public/p2570906505.webp",
+        "medium": "http://img1.doubanio.com/view/photo/s_ratio_poster/public/p2570906505.webp"
+      },
+      "alt": "https://movie.douban.com/subject/3097572/",
+      "id": "3097572"
+    },
+    {
+      "rating": {
+        "max": 10,
+        "average": 0,
+        "details": {
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0
+        },
+        "stars": "00",
+        "min": 0
+      },
+      "genres": [
+        "犯罪",
+        "悬疑"
+      ],
+      "title": "催眠·裁决",
+      "casts": [
+        {
+          "avatars": {
+            "small": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1382184082.17.webp",
+            "large": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1382184082.17.webp",
+            "medium": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1382184082.17.webp"
+          },
+          "name_en": "Nick Cheung",
+          "name": "张家辉",
+          "alt": "https://movie.douban.com/celebrity/1037273/",
+          "id": "1037273"
+        },
+        {
+          "avatars": {
+            "small": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1553246758.05.webp",
+            "large": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1553246758.05.webp",
+            "medium": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1553246758.05.webp"
+          },
+          "name_en": "Han Zhang",
+          "name": "张翰",
+          "alt": "https://movie.douban.com/celebrity/1031500/",
+          "id": "1031500"
+        },
+        {
+          "avatars": {
+            "small": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p32554.webp",
+            "large": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p32554.webp",
+            "medium": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p32554.webp"
+          },
+          "name_en": "Paul Chun",
+          "name": "秦沛",
+          "alt": "https://movie.douban.com/celebrity/1048476/",
+          "id": "1048476"
+        }
+      ],
+      "durations": [
+        "94分钟"
+      ],
+      "collect_count": 507,
+      "mainland_pubdate": "2019-10-25",
+      "has_video": false,
+      "original_title": "催眠裁決",
+      "subtype": "movie",
+      "directors": [
+        {
+          "avatars": {
+            "small": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1531115010.24.webp",
+            "large": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1531115010.24.webp",
+            "medium": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1531115010.24.webp"
+          },
+          "name_en": "Kenneth Lai",
+          "name": "黎兆钧",
+          "alt": "https://movie.douban.com/celebrity/1396872/",
+          "id": "1396872"
+        },
+        {
+          "avatars": {
+            "small": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1531115022.64.webp",
+            "large": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1531115022.64.webp",
+            "medium": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1531115022.64.webp"
+          },
+          "name_en": "Paul Sze",
+          "name": "施柏林",
+          "alt": "https://movie.douban.com/celebrity/1396874/",
+          "id": "1396874"
+        },
+        {
+          "avatars": {
+            "small": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1531115034.68.webp",
+            "large": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1531115034.68.webp",
+            "medium": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1531115034.68.webp"
+          },
+          "name_en": "Wing Tai Lau",
+          "name": "刘永泰",
+          "alt": "https://movie.douban.com/celebrity/1396875/",
+          "id": "1396875"
+        }
+      ],
+      "pubdates": [
+        "2019-10-25(中国大陆)",
+        "2019-11-07(中国香港)"
+      ],
+      "year": "2019",
+      "images": {
+        "small": "http://img3.doubanio.com/view/photo/s_ratio_poster/public/p2569044398.webp",
+        "large": "http://img3.doubanio.com/view/photo/s_ratio_poster/public/p2569044398.webp",
+        "medium": "http://img3.doubanio.com/view/photo/s_ratio_poster/public/p2569044398.webp"
+      },
+      "alt": "https://movie.douban.com/subject/26752547/",
+      "id": "26752547"
+    },
+    {
+      "rating": {
+        "max": 10,
+        "average": 6.2,
+        "details": {
+          "1": 199,
+          "2": 977,
+          "3": 2547,
+          "4": 1206,
+          "5": 368
+        },
+        "stars": "35",
+        "min": 0
+      },
+      "genres": [
+        "奇幻",
+        "冒险"
+      ],
+      "title": "沉睡魔咒2",
+      "casts": [
+        {
+          "avatars": {
+            "small": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1588.webp",
+            "large": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1588.webp",
+            "medium": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1588.webp"
+          },
+          "name_en": "Angelina Jolie",
+          "name": "安吉丽娜·朱莉",
+          "alt": "https://movie.douban.com/celebrity/1054447/",
+          "id": "1054447"
+        },
+        {
+          "avatars": {
+            "small": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p13832.webp",
+            "large": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p13832.webp",
+            "medium": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p13832.webp"
+          },
+          "name_en": "Elle Fanning",
+          "name": "艾丽·范宁",
+          "alt": "https://movie.douban.com/celebrity/1025133/",
+          "id": "1025133"
+        },
+        {
+          "avatars": {
+            "small": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p34994.webp",
+            "large": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p34994.webp",
+            "medium": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p34994.webp"
+          },
+          "name_en": "Michelle Pfeiffer",
+          "name": "米歇尔·菲佛",
+          "alt": "https://movie.douban.com/celebrity/1035642/",
+          "id": "1035642"
+        }
+      ],
+      "durations": [
+        "119分钟"
+      ],
+      "collect_count": 43446,
+      "mainland_pubdate": "2019-10-18",
+      "has_video": false,
+      "original_title": "Maleficent: Mistress of Evil",
+      "subtype": "movie",
+      "directors": [
+        {
+          "avatars": {
+            "small": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p58031.webp",
+            "large": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p58031.webp",
+            "medium": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p58031.webp"
+          },
+          "name_en": "Joachim Rønning",
+          "name": "乔阿吉姆·罗恩尼",
+          "alt": "https://movie.douban.com/celebrity/1216851/",
+          "id": "1216851"
+        }
+      ],
+      "pubdates": [
+        "2019-10-18(美国)",
+        "2019-10-18(中国大陆)"
+      ],
+      "year": "2019",
+      "images": {
+        "small": "http://img1.doubanio.com/view/photo/s_ratio_poster/public/p2570105165.webp",
+        "large": "http://img1.doubanio.com/view/photo/s_ratio_poster/public/p2570105165.webp",
+        "medium": "http://img1.doubanio.com/view/photo/s_ratio_poster/public/p2570105165.webp"
+      },
+      "alt": "https://movie.douban.com/subject/26426056/",
+      "id": "26426056"
+    },
+    {
+      "rating": {
+        "max": 10,
+        "average": 7.9,
+        "details": {
+          "1": 58,
+          "2": 195,
+          "3": 1272,
+          "4": 1786,
+          "5": 1577
+        },
+        "stars": "40",
+        "min": 0
+      },
+      "genres": [
+        "动画",
+        "冒险"
+      ],
+      "title": "航海王：狂热行动",
+      "casts": [
+        {
+          "avatars": {
+            "small": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p4978.webp",
+            "large": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p4978.webp",
+            "medium": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p4978.webp"
+          },
+          "name_en": "Mayumi Tanaka",
+          "name": "田中真弓",
+          "alt": "https://movie.douban.com/celebrity/1016801/",
+          "id": "1016801"
+        },
+        {
+          "avatars": {
+            "small": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p15181.webp",
+            "large": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p15181.webp",
+            "medium": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p15181.webp"
+          },
+          "name_en": "Akemi Okamura",
+          "name": "冈村明美",
+          "alt": "https://movie.douban.com/celebrity/1033344/",
+          "id": "1033344"
+        },
+        {
+          "avatars": {
+            "small": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p22932.webp",
+            "large": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p22932.webp",
+            "medium": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p22932.webp"
+          },
+          "name_en": "Kazuya Nakai",
+          "name": "中井和哉",
+          "alt": "https://movie.douban.com/celebrity/1037337/",
+          "id": "1037337"
+        }
+      ],
+      "durations": [
+        "101分钟"
+      ],
+      "collect_count": 39309,
+      "mainland_pubdate": "2019-10-18",
+      "has_video": false,
+      "original_title": "ONE PIECE STAMPEDE",
+      "subtype": "movie",
+      "directors": [
+        {
+          "avatars": {
+            "small": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1565598486.34.webp",
+            "large": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1565598486.34.webp",
+            "medium": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1565598486.34.webp"
+          },
+          "name_en": "Takashi Otsuka",
+          "name": "大塚隆史",
+          "alt": "https://movie.douban.com/celebrity/1317331/",
+          "id": "1317331"
+        }
+      ],
+      "pubdates": [
+        "2019-08-09(日本)",
+        "2019-10-18(中国大陆)"
+      ],
+      "year": "2019",
+      "images": {
+        "small": "http://img1.doubanio.com/view/photo/s_ratio_poster/public/p2570039912.webp",
+        "large": "http://img1.doubanio.com/view/photo/s_ratio_poster/public/p2570039912.webp",
+        "medium": "http://img1.doubanio.com/view/photo/s_ratio_poster/public/p2570039912.webp"
+      },
+      "alt": "https://movie.douban.com/subject/30329892/",
+      "id": "30329892"
+    },
+    {
+      "rating": {
+        "max": 10,
+        "average": 7.9,
+        "details": {
+          "1": 334,
+          "2": 1068,
+          "3": 11230,
+          "4": 24518,
+          "5": 12385
+        },
+        "stars": "40",
+        "min": 0
+      },
+      "genres": [
+        "剧情"
+      ],
+      "title": "我和我的祖国",
+      "casts": [
+        {
+          "avatars": {
+            "small": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1656.webp",
+            "large": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1656.webp",
+            "medium": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1656.webp"
+          },
+          "name_en": "Bo Huang",
+          "name": "黄渤",
+          "alt": "https://movie.douban.com/celebrity/1274242/",
+          "id": "1274242"
+        },
+        {
+          "avatars": {
+            "small": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1489386626.47.webp",
+            "large": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1489386626.47.webp",
+            "medium": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1489386626.47.webp"
+          },
+          "name_en": "Yi Zhang",
+          "name": "张译",
+          "alt": "https://movie.douban.com/celebrity/1274761/",
+          "id": "1274761"
+        },
+        {
+          "avatars": {
+            "small": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1530511761.13.webp",
+            "large": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1530511761.13.webp",
+            "medium": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1530511761.13.webp"
+          },
+          "name_en": "Haolin Han",
+          "name": "韩昊霖",
+          "alt": "https://movie.douban.com/celebrity/1396506/",
+          "id": "1396506"
+        }
+      ],
+      "durations": [
+        "155分钟"
+      ],
+      "collect_count": 463586,
+      "mainland_pubdate": "2019-09-30",
+      "has_video": false,
+      "original_title": "我和我的祖国",
+      "subtype": "movie",
+      "directors": [
+        {
+          "avatars": {
+            "small": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1451727734.81.webp",
+            "large": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1451727734.81.webp",
+            "medium": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1451727734.81.webp"
+          },
+          "name_en": "Kaige Chen",
+          "name": "陈凯歌",
+          "alt": "https://movie.douban.com/celebrity/1023040/",
+          "id": "1023040"
+        },
+        {
+          "avatars": {
+            "small": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1522307931.05.webp",
+            "large": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1522307931.05.webp",
+            "medium": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1522307931.05.webp"
+          },
+          "name_en": "Yibai Zhang",
+          "name": "张一白",
+          "alt": "https://movie.douban.com/celebrity/1275554/",
+          "id": "1275554"
+        },
+        {
+          "avatars": {
+            "small": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p8171.webp",
+            "large": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p8171.webp",
+            "medium": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p8171.webp"
+          },
+          "name_en": "Hu Guan",
+          "name": "管虎",
+          "alt": "https://movie.douban.com/celebrity/1274919/",
+          "id": "1274919"
+        },
+        {
+          "avatars": {
+            "small": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1367827663.92.webp",
+            "large": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1367827663.92.webp",
+            "medium": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1367827663.92.webp"
+          },
+          "name_en": "Xiaolu Xue",
+          "name": "薛晓路",
+          "alt": "https://movie.douban.com/celebrity/1275139/",
+          "id": "1275139"
+        },
+        {
+          "avatars": {
+            "small": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p43738.webp",
+            "large": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p43738.webp",
+            "medium": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p43738.webp"
+          },
+          "name_en": "Zheng Xu",
+          "name": "徐峥",
+          "alt": "https://movie.douban.com/celebrity/1274297/",
+          "id": "1274297"
+        },
+        {
+          "avatars": {
+            "small": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1542982906.61.webp",
+            "large": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1542982906.61.webp",
+            "medium": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1542982906.61.webp"
+          },
+          "name_en": "Hao Ning",
+          "name": "宁浩",
+          "alt": "https://movie.douban.com/celebrity/1274265/",
+          "id": "1274265"
+        },
+        {
+          "avatars": {
+            "small": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1563174692.41.webp",
+            "large": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1563174692.41.webp",
+            "medium": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1563174692.41.webp"
+          },
+          "name_en": "Muye Wen",
+          "name": "文牧野",
+          "alt": "https://movie.douban.com/celebrity/1349765/",
+          "id": "1349765"
+        }
+      ],
+      "pubdates": [
+        "2019-09-30(中国大陆)"
+      ],
+      "year": "2019",
+      "images": {
+        "small": "http://img1.doubanio.com/view/photo/s_ratio_poster/public/p2567998580.webp",
+        "large": "http://img1.doubanio.com/view/photo/s_ratio_poster/public/p2567998580.webp",
+        "medium": "http://img1.doubanio.com/view/photo/s_ratio_poster/public/p2567998580.webp"
+      },
+      "alt": "https://movie.douban.com/subject/32659890/",
+      "id": "32659890"
+    },
+    {
+      "rating": {
+        "max": 10,
+        "average": 6.9,
+        "details": {
+          "1": 7,
+          "2": 66,
+          "3": 600,
+          "4": 443,
+          "5": 98
+        },
+        "stars": "35",
+        "min": 0
+      },
+      "genres": [
+        "悬疑",
+        "惊悚"
+      ],
+      "title": "天作谜案",
+      "casts": [
+        {
+          "avatars": {
+            "small": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1358055389.33.webp",
+            "large": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1358055389.33.webp",
+            "medium": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1358055389.33.webp"
+          },
+          "name_en": "Sidharth Malhotra",
+          "name": "施坦·马洛萨",
+          "alt": "https://movie.douban.com/celebrity/1325015/",
+          "id": "1325015"
+        },
+        {
+          "avatars": {
+            "small": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1356959933.57.webp",
+            "large": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1356959933.57.webp",
+            "medium": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1356959933.57.webp"
+          },
+          "name_en": "Sonakshi Sinha",
+          "name": "索娜什·辛哈 ",
+          "alt": "https://movie.douban.com/celebrity/1274180/",
+          "id": "1274180"
+        },
+        {
+          "avatars": {
+            "small": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p7647.webp",
+            "large": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p7647.webp",
+            "medium": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p7647.webp"
+          },
+          "name_en": "Akshaye Khanna",
+          "name": "阿克夏耶·坎纳",
+          "alt": "https://movie.douban.com/celebrity/1000509/",
+          "id": "1000509"
+        }
+      ],
+      "durations": [
+        "105分钟"
+      ],
+      "collect_count": 6698,
+      "mainland_pubdate": "2019-10-25",
+      "has_video": false,
+      "original_title": "Ittefaq",
+      "subtype": "movie",
+      "directors": [
+        {
+          "avatars": {
+            "small": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1516351596.99.webp",
+            "large": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1516351596.99.webp",
+            "medium": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1516351596.99.webp"
+          },
+          "name_en": "Abhay Chopra",
+          "name": "阿沛·乔普拉",
+          "alt": "https://movie.douban.com/celebrity/1387388/",
+          "id": "1387388"
+        }
+      ],
+      "pubdates": [
+        "2017-11-03(印度)",
+        "2019-10-25(中国大陆)"
+      ],
+      "year": "2017",
+      "images": {
+        "small": "http://img1.doubanio.com/view/photo/s_ratio_poster/public/p2571445582.webp",
+        "large": "http://img1.doubanio.com/view/photo/s_ratio_poster/public/p2571445582.webp",
+        "medium": "http://img1.doubanio.com/view/photo/s_ratio_poster/public/p2571445582.webp"
+      },
+      "alt": "https://movie.douban.com/subject/27133050/",
+      "id": "27133050"
+    },
+    {
+      "rating": {
+        "max": 10,
+        "average": 6.9,
+        "details": {
+          "1": 491,
+          "2": 2987,
+          "3": 13760,
+          "4": 12274,
+          "5": 3610
+        },
+        "stars": "35",
+        "min": 0
+      },
+      "genres": [
+        "剧情",
+        "传记",
+        "灾难"
+      ],
+      "title": "中国机长",
+      "casts": [
+        {
+          "avatars": {
+            "small": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p49047.webp",
+            "large": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p49047.webp",
+            "medium": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p49047.webp"
+          },
+          "name_en": "Hanyu Zhang",
+          "name": "张涵予",
+          "alt": "https://movie.douban.com/celebrity/1274319/",
+          "id": "1274319"
+        },
+        {
+          "avatars": {
+            "small": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1571304331.58.webp",
+            "large": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1571304331.58.webp",
+            "medium": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1571304331.58.webp"
+          },
+          "name_en": "Oho Ou",
+          "name": "欧豪",
+          "alt": "https://movie.douban.com/celebrity/1337644/",
+          "id": "1337644"
+        },
+        {
+          "avatars": {
+            "small": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1502100680.45.webp",
+            "large": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1502100680.45.webp",
+            "medium": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1502100680.45.webp"
+          },
+          "name_en": "Jiang Du",
+          "name": "杜江",
+          "alt": "https://movie.douban.com/celebrity/1322949/",
+          "id": "1322949"
+        }
+      ],
+      "durations": [
+        "111分钟"
+      ],
+      "collect_count": 320335,
+      "mainland_pubdate": "2019-09-30",
+      "has_video": false,
+      "original_title": "中国机长",
+      "subtype": "movie",
+      "directors": [
+        {
+          "avatars": {
+            "small": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1403267018.07.webp",
+            "large": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1403267018.07.webp",
+            "medium": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1403267018.07.webp"
+          },
+          "name_en": "Andrew Lau",
+          "name": "刘伟强",
+          "alt": "https://movie.douban.com/celebrity/1106979/",
+          "id": "1106979"
+        }
+      ],
+      "pubdates": [
+        "2019-09-30(中国大陆)"
+      ],
+      "year": "2019",
+      "images": {
+        "small": "http://img1.doubanio.com/view/photo/s_ratio_poster/public/p2568261402.webp",
+        "large": "http://img1.doubanio.com/view/photo/s_ratio_poster/public/p2568261402.webp",
+        "medium": "http://img1.doubanio.com/view/photo/s_ratio_poster/public/p2568261402.webp"
+      },
+      "alt": "https://movie.douban.com/subject/30295905/",
+      "id": "30295905"
+    },
+    {
+      "rating": {
+        "max": 10,
+        "average": 5.3,
+        "details": {
+          "1": 3094,
+          "2": 2209,
+          "3": 2798,
+          "4": 1477,
+          "5": 1469
+        },
+        "stars": "30",
+        "min": 0
+      },
+      "genres": [
+        "爱情",
+        "奇幻",
+        "古装"
+      ],
+      "title": "诛仙 Ⅰ",
+      "casts": [
+        {
+          "avatars": {
+            "small": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1564038254.19.webp",
+            "large": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1564038254.19.webp",
+            "medium": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1564038254.19.webp"
+          },
+          "name_en": "Sean Xiao",
+          "name": "肖战",
+          "alt": "https://movie.douban.com/celebrity/1360615/",
+          "id": "1360615"
+        },
+        {
+          "avatars": {
+            "small": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1549079266.08.webp",
+            "large": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1549079266.08.webp",
+            "medium": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1549079266.08.webp"
+          },
+          "name_en": "Qin Li",
+          "name": "李沁",
+          "alt": "https://movie.douban.com/celebrity/1274844/",
+          "id": "1274844"
+        },
+        {
+          "avatars": {
+            "small": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1563004974.29.webp",
+            "large": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1563004974.29.webp",
+            "medium": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1563004974.29.webp"
+          },
+          "name_en": "Meiqi Meng",
+          "name": "孟美岐",
+          "alt": "https://movie.douban.com/celebrity/1392209/",
+          "id": "1392209"
+        }
+      ],
+      "durations": [
+        "101分钟"
+      ],
+      "collect_count": 244856,
+      "mainland_pubdate": "2019-09-13",
+      "has_video": false,
+      "original_title": "诛仙 Ⅰ",
+      "subtype": "movie",
+      "directors": [
+        {
+          "avatars": {
+            "small": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p17793.webp",
+            "large": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p17793.webp",
+            "medium": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p17793.webp"
+          },
+          "name_en": "Siu-Tung Ching",
+          "name": "程小东",
+          "alt": "https://movie.douban.com/celebrity/1280664/",
+          "id": "1280664"
+        }
+      ],
+      "pubdates": [
+        "2019-09-13(中国大陆)"
+      ],
+      "year": "2019",
+      "images": {
+        "small": "http://img1.doubanio.com/view/photo/s_ratio_poster/public/p2567346094.webp",
+        "large": "http://img1.doubanio.com/view/photo/s_ratio_poster/public/p2567346094.webp",
+        "medium": "http://img1.doubanio.com/view/photo/s_ratio_poster/public/p2567346094.webp"
+      },
+      "alt": "https://movie.douban.com/subject/25779217/",
+      "id": "25779217"
+    },
+    {
+      "rating": {
+        "max": 10,
+        "average": 6.7,
+        "details": {
+          "1": 30,
+          "2": 303,
+          "3": 2095,
+          "4": 1272,
+          "5": 207
+        },
+        "stars": "35",
+        "min": 0
+      },
+      "genres": [
+        "犯罪",
+        "悬疑",
+        "惊悚"
+      ],
+      "title": "犯罪现场",
+      "casts": [
+        {
+          "avatars": {
+            "small": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1421047436.79.webp",
+            "large": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1421047436.79.webp",
+            "medium": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1421047436.79.webp"
+          },
+          "name_en": "Louis Koo",
+          "name": "古天乐",
+          "alt": "https://movie.douban.com/celebrity/1027577/",
+          "id": "1027577"
+        },
+        {
+          "avatars": {
+            "small": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p3786.webp",
+            "large": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p3786.webp",
+            "medium": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p3786.webp"
+          },
+          "name_en": "Jessica Hester Hsuan",
+          "name": "宣萱",
+          "alt": "https://movie.douban.com/celebrity/1023521/",
+          "id": "1023521"
+        },
+        {
+          "avatars": {
+            "small": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1421509044.1.webp",
+            "large": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1421509044.1.webp",
+            "medium": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1421509044.1.webp"
+          },
+          "name_en": "Louis Cheung",
+          "name": "张继聪",
+          "alt": "https://movie.douban.com/celebrity/1316230/",
+          "id": "1316230"
+        }
+      ],
+      "durations": [
+        "105分钟"
+      ],
+      "collect_count": 26419,
+      "mainland_pubdate": "2019-10-12",
+      "has_video": false,
+      "original_title": "犯罪現場",
+      "subtype": "movie",
+      "directors": [
+        {
+          "avatars": {
+            "small": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p51529.webp",
+            "large": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p51529.webp",
+            "medium": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p51529.webp"
+          },
+          "name_en": "Chi Keung Fung",
+          "name": "冯志强",
+          "alt": "https://movie.douban.com/celebrity/1321488/",
+          "id": "1321488"
+        }
+      ],
+      "pubdates": [
+        "2019-10-12(中国大陆)",
+        "2019-10-24(中国香港)"
+      ],
+      "year": "2019",
+      "images": {
+        "small": "http://img1.doubanio.com/view/photo/s_ratio_poster/public/p2570879785.webp",
+        "large": "http://img1.doubanio.com/view/photo/s_ratio_poster/public/p2570879785.webp",
+        "medium": "http://img1.doubanio.com/view/photo/s_ratio_poster/public/p2570879785.webp"
+      },
+      "alt": "https://movie.douban.com/subject/26235346/",
+      "id": "26235346"
+    },
+    {
+      "rating": {
+        "max": 10,
+        "average": 6.5,
+        "details": {
+          "1": 488,
+          "2": 1584,
+          "3": 5349,
+          "4": 3568,
+          "5": 1037
+        },
+        "stars": "35",
+        "min": 0
+      },
+      "genres": [
+        "剧情",
+        "冒险"
+      ],
+      "title": "攀登者",
+      "casts": [
+        {
+          "avatars": {
+            "small": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1501738155.24.webp",
+            "large": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1501738155.24.webp",
+            "medium": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1501738155.24.webp"
+          },
+          "name_en": "Jing Wu",
+          "name": "吴京",
+          "alt": "https://movie.douban.com/celebrity/1000525/",
+          "id": "1000525"
+        },
+        {
+          "avatars": {
+            "small": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1359895311.0.webp",
+            "large": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1359895311.0.webp",
+            "medium": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1359895311.0.webp"
+          },
+          "name_en": "Ziyi Zhang",
+          "name": "章子怡",
+          "alt": "https://movie.douban.com/celebrity/1041014/",
+          "id": "1041014"
+        },
+        {
+          "avatars": {
+            "small": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1489386626.47.webp",
+            "large": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1489386626.47.webp",
+            "medium": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1489386626.47.webp"
+          },
+          "name_en": "Yi Zhang",
+          "name": "张译",
+          "alt": "https://movie.douban.com/celebrity/1274761/",
+          "id": "1274761"
+        }
+      ],
+      "durations": [
+        "125分钟"
+      ],
+      "collect_count": 152940,
+      "mainland_pubdate": "2019-09-30",
+      "has_video": false,
+      "original_title": "攀登者",
+      "subtype": "movie",
+      "directors": [
+        {
+          "avatars": {
+            "small": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p11494.webp",
+            "large": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p11494.webp",
+            "medium": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p11494.webp"
+          },
+          "name_en": "Daniel Lee",
+          "name": "李仁港",
+          "alt": "https://movie.douban.com/celebrity/1275585/",
+          "id": "1275585"
+        }
+      ],
+      "pubdates": [
+        "2019-09-30(中国大陆)"
+      ],
+      "year": "2019",
+      "images": {
+        "small": "http://img1.doubanio.com/view/photo/s_ratio_poster/public/p2568577681.webp",
+        "large": "http://img1.doubanio.com/view/photo/s_ratio_poster/public/p2568577681.webp",
+        "medium": "http://img1.doubanio.com/view/photo/s_ratio_poster/public/p2568577681.webp"
+      },
+      "alt": "https://movie.douban.com/subject/30413052/",
+      "id": "30413052"
+    },
+    {
+      "rating": {
+        "max": 10,
+        "average": 8.3,
+        "details": {
+          "1": 209,
+          "2": 828,
+          "3": 5749,
+          "4": 13622,
+          "5": 12120
+        },
+        "stars": "45",
+        "min": 0
+      },
+      "genres": [
+        "动作",
+        "动画",
+        "奇幻"
+      ],
+      "title": "罗小黑战记",
+      "casts": [
+        {
+          "avatars": {
+            "small": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1473681283.12.webp",
+            "large": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1473681283.12.webp",
+            "medium": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1473681283.12.webp"
+          },
+          "name_en": "Shuang Wang",
+          "name": "山新",
+          "alt": "https://movie.douban.com/celebrity/1334349/",
+          "id": "1334349"
+        },
+        {
+          "avatars": {
+            "small": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1566555256.13.webp",
+            "large": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1566555256.13.webp",
+            "medium": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1566555256.13.webp"
+          },
+          "name_en": "Xianghai Hao",
+          "name": "郝祥海",
+          "alt": "https://movie.douban.com/celebrity/1340968/",
+          "id": "1340968"
+        },
+        {
+          "avatars": {
+            "small": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1566555279.04.webp",
+            "large": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1566555279.04.webp",
+            "medium": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1566555279.04.webp"
+          },
+          "name_en": "Mingyue Liu",
+          "name": "刘明月",
+          "alt": "https://movie.douban.com/celebrity/1381516/",
+          "id": "1381516"
+        }
+      ],
+      "durations": [
+        "101分钟"
+      ],
+      "collect_count": 234601,
+      "mainland_pubdate": "2019-09-07",
+      "has_video": true,
+      "original_title": "罗小黑战记",
+      "subtype": "movie",
+      "directors": [
+        {
+          "avatars": {
+            "small": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1568010971.7.webp",
+            "large": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1568010971.7.webp",
+            "medium": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1568010971.7.webp"
+          },
+          "name_en": "MTJJ",
+          "name": "木头",
+          "alt": "https://movie.douban.com/celebrity/1379633/",
+          "id": "1379633"
+        }
+      ],
+      "pubdates": [
+        "2019-08-27(大规模点映)",
+        "2019-09-07(中国大陆)"
+      ],
+      "year": "2019",
+      "images": {
+        "small": "http://img3.doubanio.com/view/photo/s_ratio_poster/public/p2568288336.webp",
+        "large": "http://img3.doubanio.com/view/photo/s_ratio_poster/public/p2568288336.webp",
+        "medium": "http://img3.doubanio.com/view/photo/s_ratio_poster/public/p2568288336.webp"
+      },
+      "alt": "https://movie.douban.com/subject/26709258/",
+      "id": "26709258"
+    },
+    {
+      "rating": {
+        "max": 10,
+        "average": 0,
+        "details": {
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0
+        },
+        "stars": "00",
+        "min": 0
+      },
+      "genres": [
+        "喜剧",
+        "科幻",
+        "动画"
+      ],
+      "title": "三傻闹地球",
+      "casts": [
+        {
+          "avatars": {
+            "small": "http://img3.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png",
+            "large": "http://img1.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png",
+            "medium": "http://img3.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png"
+          },
+          "name_en": "Callum Maloney",
+          "name": "卡勒姆·马洛尼",
+          "alt": "https://movie.douban.com/celebrity/1360842/",
+          "id": "1360842"
+        },
+        {
+          "avatars": {
+            "small": "http://img3.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png",
+            "large": "http://img1.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png",
+            "medium": "http://img3.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png"
+          },
+          "name_en": "Dermot Magennis",
+          "name": "德莫特·莫根尼斯",
+          "alt": "https://movie.douban.com/celebrity/1360843/",
+          "id": "1360843"
+        },
+        {
+          "avatars": {
+            "small": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1502437429.76.webp",
+            "large": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1502437429.76.webp",
+            "medium": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1502437429.76.webp"
+          },
+          "name_en": "Paul Tylak",
+          "name": "保罗·泰来克",
+          "alt": "https://movie.douban.com/celebrity/1378949/",
+          "id": "1378949"
+        }
+      ],
+      "durations": [
+        "86分钟"
+      ],
+      "collect_count": 93,
+      "mainland_pubdate": "2019-10-26",
+      "has_video": false,
+      "original_title": "Luis & the Aliens",
+      "subtype": "movie",
+      "directors": [
+        {
+          "avatars": {
+            "small": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p50747.webp",
+            "large": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p50747.webp",
+            "medium": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p50747.webp"
+          },
+          "name_en": "Christoph Lauenstein",
+          "name": "克里斯托弗·劳恩斯坦",
+          "alt": "https://movie.douban.com/celebrity/1034454/",
+          "id": "1034454"
+        },
+        {
+          "avatars": {
+            "small": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p50746.webp",
+            "large": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p50746.webp",
+            "medium": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p50746.webp"
+          },
+          "name_en": "Wolfgang Lauenstein",
+          "name": "沃尔夫冈·劳恩斯坦",
+          "alt": "https://movie.douban.com/celebrity/1035034/",
+          "id": "1035034"
+        },
+        {
+          "avatars": {
+            "small": "http://img3.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png",
+            "large": "http://img1.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png",
+            "medium": "http://img3.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png"
+          },
+          "name_en": "Sean McCormack",
+          "name": "肖恩·麦克科马克",
+          "alt": "https://movie.douban.com/celebrity/1360841/",
+          "id": "1360841"
+        }
+      ],
+      "pubdates": [
+        "2018-04-06(波兰)",
+        "2019-10-26(中国大陆)"
+      ],
+      "year": "2018",
+      "images": {
+        "small": "http://img3.doubanio.com/view/photo/s_ratio_poster/public/p2569759696.webp",
+        "large": "http://img3.doubanio.com/view/photo/s_ratio_poster/public/p2569759696.webp",
+        "medium": "http://img3.doubanio.com/view/photo/s_ratio_poster/public/p2569759696.webp"
+      },
+      "alt": "https://movie.douban.com/subject/30262334/",
+      "id": "30262334"
+    },
+    {
+      "rating": {
+        "max": 10,
+        "average": 0,
+        "details": {
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0
+        },
+        "stars": "00",
+        "min": 0
+      },
+      "genres": [
+        "剧情",
+        "战争"
+      ],
+      "title": "太阳升起的时刻",
+      "casts": [
+        {
+          "avatars": {
+            "small": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1508739235.25.webp",
+            "large": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1508739235.25.webp",
+            "medium": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1508739235.25.webp"
+          },
+          "name_en": "Guoqiang Tang",
+          "name": "唐国强",
+          "alt": "https://movie.douban.com/celebrity/1152771/",
+          "id": "1152771"
+        },
+        {
+          "avatars": {
+            "small": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p35239.webp",
+            "large": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p35239.webp",
+            "medium": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p35239.webp"
+          },
+          "name_en": "Zhibing Liu",
+          "name": "刘之冰",
+          "alt": "https://movie.douban.com/celebrity/1316135/",
+          "id": "1316135"
+        },
+        {
+          "avatars": {
+            "small": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p52143.webp",
+            "large": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p52143.webp",
+            "medium": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p52143.webp"
+          },
+          "name_en": "Feng Jiang",
+          "name": "姜峰",
+          "alt": "https://movie.douban.com/celebrity/1318194/",
+          "id": "1318194"
+        }
+      ],
+      "durations": [
+        "90分钟"
+      ],
+      "collect_count": 9,
+      "mainland_pubdate": "2019-10-25",
+      "has_video": false,
+      "original_title": "太阳升起的时刻",
+      "subtype": "movie",
+      "directors": [
+        {
+          "avatars": {
+            "small": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p28955.webp",
+            "large": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p28955.webp",
+            "medium": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p28955.webp"
+          },
+          "name_en": "An Lan",
+          "name": "安澜",
+          "alt": "https://movie.douban.com/celebrity/1315152/",
+          "id": "1315152"
+        }
+      ],
+      "pubdates": [
+        "2019-10-25(中国大陆)"
+      ],
+      "year": "2019",
+      "images": {
+        "small": "http://img1.doubanio.com/view/photo/s_ratio_poster/public/p2571701544.webp",
+        "large": "http://img1.doubanio.com/view/photo/s_ratio_poster/public/p2571701544.webp",
+        "medium": "http://img1.doubanio.com/view/photo/s_ratio_poster/public/p2571701544.webp"
+      },
+      "alt": "https://movie.douban.com/subject/32493366/",
+      "id": "32493366"
+    },
+    {
+      "rating": {
+        "max": 10,
+        "average": 0,
+        "details": {
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0
+        },
+        "stars": "00",
+        "min": 0
+      },
+      "genres": [
+        "剧情"
+      ],
+      "title": "单行道",
+      "casts": [
+        {
+          "avatars": {
+            "small": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1500293477.27.webp",
+            "large": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1500293477.27.webp",
+            "medium": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1500293477.27.webp"
+          },
+          "name_en": "Wen Hei",
+          "name": "黑文",
+          "alt": "https://movie.douban.com/celebrity/1377256/",
+          "id": "1377256"
+        },
+        {
+          "avatars": {
+            "small": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1458443580.94.webp",
+            "large": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1458443580.94.webp",
+            "medium": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1458443580.94.webp"
+          },
+          "name_en": "Jifeng Sun",
+          "name": "孙继峰",
+          "alt": "https://movie.douban.com/celebrity/1355799/",
+          "id": "1355799"
+        },
+        {
+          "avatars": {
+            "small": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1567124863.33.webp",
+            "large": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1567124863.33.webp",
+            "medium": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1567124863.33.webp"
+          },
+          "name_en": "Yingchun Cai",
+          "name": "蔡迎春",
+          "alt": "https://movie.douban.com/celebrity/1422336/",
+          "id": "1422336"
+        }
+      ],
+      "durations": [
+        "88分钟"
+      ],
+      "collect_count": 12,
+      "mainland_pubdate": "2019-10-25",
+      "has_video": false,
+      "original_title": "单行道",
+      "subtype": "movie",
+      "directors": [
+        {
+          "avatars": {
+            "small": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1500293477.27.webp",
+            "large": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1500293477.27.webp",
+            "medium": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1500293477.27.webp"
+          },
+          "name_en": "Wen Hei",
+          "name": "黑文",
+          "alt": "https://movie.douban.com/celebrity/1377256/",
+          "id": "1377256"
+        }
+      ],
+      "pubdates": [
+        "2019-10-25(中国大陆)"
+      ],
+      "year": "2019",
+      "images": {
+        "small": "http://img1.doubanio.com/view/photo/s_ratio_poster/public/p2571082611.webp",
+        "large": "http://img1.doubanio.com/view/photo/s_ratio_poster/public/p2571082611.webp",
+        "medium": "http://img1.doubanio.com/view/photo/s_ratio_poster/public/p2571082611.webp"
+      },
+      "alt": "https://movie.douban.com/subject/30185397/",
+      "id": "30185397"
+    },
+    {
+      "rating": {
+        "max": 10,
+        "average": 6,
+        "details": {
+          "1": 13,
+          "2": 41,
+          "3": 50,
+          "4": 26,
+          "5": 21
+        },
+        "stars": "30",
+        "min": 0
+      },
+      "genres": [
+        "剧情",
+        "犯罪"
+      ],
+      "title": "六欲天",
+      "casts": [
+        {
+          "avatars": {
+            "small": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1570689867.37.webp",
+            "large": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1570689867.37.webp",
+            "medium": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1570689867.37.webp"
+          },
+          "name_en": "Feng Zu",
+          "name": "祖峰",
+          "alt": "https://movie.douban.com/celebrity/1313650/",
+          "id": "1313650"
+        },
+        {
+          "avatars": {
+            "small": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1505062636.26.webp",
+            "large": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1505062636.26.webp",
+            "medium": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1505062636.26.webp"
+          },
+          "name_en": "Lu Huang",
+          "name": "黄璐",
+          "alt": "https://movie.douban.com/celebrity/1276144/",
+          "id": "1276144"
+        },
+        {
+          "avatars": {
+            "small": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1474788068.82.webp",
+            "large": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1474788068.82.webp",
+            "medium": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1474788068.82.webp"
+          },
+          "name_en": "Minghao Chen",
+          "name": "陈明昊",
+          "alt": "https://movie.douban.com/celebrity/1362567/",
+          "id": "1362567"
+        }
+      ],
+      "durations": [
+        "116分钟"
+      ],
+      "collect_count": 2176,
+      "mainland_pubdate": "2019-11-01",
+      "has_video": false,
+      "original_title": "六欲天",
+      "subtype": "movie",
+      "directors": [
+        {
+          "avatars": {
+            "small": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1570689867.37.webp",
+            "large": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1570689867.37.webp",
+            "medium": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1570689867.37.webp"
+          },
+          "name_en": "Feng Zu",
+          "name": "祖峰",
+          "alt": "https://movie.douban.com/celebrity/1313650/",
+          "id": "1313650"
+        }
+      ],
+      "pubdates": [
+        "2019-05-22(戛纳电影节)",
+        "2019-11-01(中国大陆)"
+      ],
+      "year": "2019",
+      "images": {
+        "small": "http://img3.doubanio.com/view/photo/s_ratio_poster/public/p2572051307.webp",
+        "large": "http://img3.doubanio.com/view/photo/s_ratio_poster/public/p2572051307.webp",
+        "medium": "http://img3.doubanio.com/view/photo/s_ratio_poster/public/p2572051307.webp"
+      },
+      "alt": "https://movie.douban.com/subject/30257991/",
+      "id": "30257991"
+    },
+    {
+      "rating": {
+        "max": 10,
+        "average": 0,
+        "details": {
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0
+        },
+        "stars": "00",
+        "min": 0
+      },
+      "genres": [
+        "动作",
+        "犯罪",
+        "悬疑"
+      ],
+      "title": "侠路相逢",
+      "casts": [
+        {
+          "avatars": {
+            "small": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p27203.webp",
+            "large": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p27203.webp",
+            "medium": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p27203.webp"
+          },
+          "name_en": "Wu Jiang",
+          "name": "姜武",
+          "alt": "https://movie.douban.com/celebrity/1274290/",
+          "id": "1274290"
+        },
+        {
+          "avatars": {
+            "small": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p7387.webp",
+            "large": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p7387.webp",
+            "medium": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p7387.webp"
+          },
+          "name_en": "Bing Shao",
+          "name": "邵兵",
+          "alt": "https://movie.douban.com/celebrity/1274884/",
+          "id": "1274884"
+        },
+        {
+          "avatars": {
+            "small": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1568465824.02.webp",
+            "large": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1568465824.02.webp",
+            "medium": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1568465824.02.webp"
+          },
+          "name_en": "Rao Yao",
+          "name": "姚娆",
+          "alt": "https://movie.douban.com/celebrity/1401074/",
+          "id": "1401074"
+        }
+      ],
+      "durations": [
+        "102分钟",
+        "96分钟(中国大陆)"
+      ],
+      "collect_count": 821,
+      "mainland_pubdate": "2019-10-18",
+      "has_video": false,
+      "original_title": "侠路相逢",
+      "subtype": "movie",
+      "directors": [
+        {
+          "avatars": {
+            "small": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1541582484.47.webp",
+            "large": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1541582484.47.webp",
+            "medium": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1541582484.47.webp"
+          },
+          "name_en": "Yafeng Shao",
+          "name": "邵亚峰",
+          "alt": "https://movie.douban.com/celebrity/1401073/",
+          "id": "1401073"
+        }
+      ],
+      "pubdates": [
+        "2018-06-23(上海电影节)",
+        "2019-10-18(中国大陆)"
+      ],
+      "year": "2018",
+      "images": {
+        "small": "http://img3.doubanio.com/view/photo/s_ratio_poster/public/p2570803986.webp",
+        "large": "http://img3.doubanio.com/view/photo/s_ratio_poster/public/p2570803986.webp",
+        "medium": "http://img3.doubanio.com/view/photo/s_ratio_poster/public/p2570803986.webp"
+      },
+      "alt": "https://movie.douban.com/subject/30232732/",
+      "id": "30232732"
+    },
+    {
+      "rating": {
+        "max": 10,
+        "average": 7.5,
+        "details": {
+          "1": 14,
+          "2": 82,
+          "3": 664,
+          "4": 911,
+          "5": 382
+        },
+        "stars": "40",
+        "min": 0
+      },
+      "genres": [
+        "喜剧",
+        "动画",
+        "冒险"
+      ],
+      "title": "雪人奇缘",
+      "casts": [
+        {
+          "avatars": {
+            "small": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1380958556.83.webp",
+            "large": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1380958556.83.webp",
+            "medium": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1380958556.83.webp"
+          },
+          "name_en": "Chloe Bennet",
+          "name": "汪可盈",
+          "alt": "https://movie.douban.com/celebrity/1329186/",
+          "id": "1329186"
+        },
+        {
+          "avatars": {
+            "small": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1466827551.41.webp",
+            "large": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1466827551.41.webp",
+            "medium": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1466827551.41.webp"
+          },
+          "name_en": "Albert Tsai",
+          "name": "阿尔伯特·蔡",
+          "alt": "https://movie.douban.com/celebrity/1359259/",
+          "id": "1359259"
+        },
+        {
+          "avatars": {
+            "small": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p4813.webp",
+            "large": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p4813.webp",
+            "medium": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p4813.webp"
+          },
+          "name_en": "Eddie Izzard",
+          "name": "艾迪·伊扎德",
+          "alt": "https://movie.douban.com/celebrity/1007011/",
+          "id": "1007011"
+        }
+      ],
+      "durations": [
+        "97分钟"
+      ],
+      "collect_count": 12654,
+      "mainland_pubdate": "2019-10-01",
+      "has_video": false,
+      "original_title": "Abominable",
+      "subtype": "movie",
+      "directors": [
+        {
+          "avatars": {
+            "small": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1563523606.4.webp",
+            "large": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1563523606.4.webp",
+            "medium": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1563523606.4.webp"
+          },
+          "name_en": "Jill Culton",
+          "name": "吉尔·卡尔顿",
+          "alt": "https://movie.douban.com/celebrity/1358670/",
+          "id": "1358670"
+        },
+        {
+          "avatars": {
+            "small": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1561624681.11.webp",
+            "large": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1561624681.11.webp",
+            "medium": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1561624681.11.webp"
+          },
+          "name_en": "Todd Wilderman",
+          "name": "托德·维尔德曼",
+          "alt": "https://movie.douban.com/celebrity/1393743/",
+          "id": "1393743"
+        }
+      ],
+      "pubdates": [
+        "2019-09-07(多伦多电影节)",
+        "2019-09-27(美国)",
+        "2019-10-01(中国大陆)"
+      ],
+      "year": "2019",
+      "images": {
+        "small": "http://img1.doubanio.com/view/photo/s_ratio_poster/public/p2567925521.webp",
+        "large": "http://img1.doubanio.com/view/photo/s_ratio_poster/public/p2567925521.webp",
+        "medium": "http://img1.doubanio.com/view/photo/s_ratio_poster/public/p2567925521.webp"
+      },
+      "alt": "https://movie.douban.com/subject/26929010/",
+      "id": "26929010"
+    },
+    {
+      "rating": {
+        "max": 10,
+        "average": 0,
+        "details": {
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0
+        },
+        "stars": "00",
+        "min": 0
+      },
+      "genres": [
+        "悬疑",
+        "惊悚"
+      ],
+      "title": "道具师",
+      "casts": [
+        {
+          "avatars": {
+            "small": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1554111173.12.webp",
+            "large": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1554111173.12.webp",
+            "medium": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1554111173.12.webp"
+          },
+          "name_en": "Zhenjiang Bao",
+          "name": "鲍振江",
+          "alt": "https://movie.douban.com/celebrity/1322071/",
+          "id": "1322071"
+        },
+        {
+          "avatars": {
+            "small": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1554111261.26.webp",
+            "large": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1554111261.26.webp",
+            "medium": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1554111261.26.webp"
+          },
+          "name_en": "Fei Lin",
+          "name": "林飞",
+          "alt": "https://movie.douban.com/celebrity/1413716/",
+          "id": "1413716"
+        },
+        {
+          "avatars": {
+            "small": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1554111299.64.webp",
+            "large": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1554111299.64.webp",
+            "medium": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1554111299.64.webp"
+          },
+          "name_en": "Yilin Wang",
+          "name": "王艺霖",
+          "alt": "https://movie.douban.com/celebrity/1413717/",
+          "id": "1413717"
+        }
+      ],
+      "durations": [
+        "80分钟"
+      ],
+      "collect_count": 44,
+      "mainland_pubdate": "2019-10-31",
+      "has_video": false,
+      "original_title": "道具师",
+      "subtype": "movie",
+      "directors": [
+        {
+          "avatars": {
+            "small": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1571898586.61.webp",
+            "large": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1571898586.61.webp",
+            "medium": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1571898586.61.webp"
+          },
+          "name_en": "Ziyue Du",
+          "name": "杜子曰",
+          "alt": "https://movie.douban.com/celebrity/1413711/",
+          "id": "1413711"
+        }
+      ],
+      "pubdates": [
+        "2019-10-31(中国大陆)"
+      ],
+      "year": "2019",
+      "images": {
+        "small": "http://img3.doubanio.com/view/photo/s_ratio_poster/public/p2565101658.webp",
+        "large": "http://img3.doubanio.com/view/photo/s_ratio_poster/public/p2565101658.webp",
+        "medium": "http://img3.doubanio.com/view/photo/s_ratio_poster/public/p2565101658.webp"
+      },
+      "alt": "https://movie.douban.com/subject/33391779/",
+      "id": "33391779"
+    },
+    {
+      "rating": {
+        "max": 10,
+        "average": 8.9,
+        "details": {
+          "1": 29,
+          "2": 124,
+          "3": 2187,
+          "4": 10814,
+          "5": 16331
+        },
+        "stars": "45",
+        "min": 0
+      },
+      "genres": [
+        "纪录片"
+      ],
+      "title": "徒手攀岩",
+      "casts": [
+        {
+          "avatars": {
+            "small": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1549054956.41.webp",
+            "large": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1549054956.41.webp",
+            "medium": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1549054956.41.webp"
+          },
+          "name_en": "Alex Honnold",
+          "name": "亚历克斯·霍诺德",
+          "alt": "https://movie.douban.com/celebrity/1362721/",
+          "id": "1362721"
+        },
+        {
+          "avatars": {
+            "small": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1551517469.28.webp",
+            "large": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1551517469.28.webp",
+            "medium": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1551517469.28.webp"
+          },
+          "name_en": "Tommy Caldwell",
+          "name": "汤米·考德威尔",
+          "alt": "https://movie.douban.com/celebrity/1411935/",
+          "id": "1411935"
+        },
+        {
+          "avatars": {
+            "small": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1441133528.13.webp",
+            "large": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1441133528.13.webp",
+            "medium": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1441133528.13.webp"
+          },
+          "name_en": "Jimmy Chin",
+          "name": "金国威",
+          "alt": "https://movie.douban.com/celebrity/1351391/",
+          "id": "1351391"
+        }
+      ],
+      "durations": [
+        "100分钟"
+      ],
+      "collect_count": 109366,
+      "mainland_pubdate": "2019-09-06",
+      "has_video": true,
+      "original_title": "Free Solo",
+      "subtype": "movie",
+      "directors": [
+        {
+          "avatars": {
+            "small": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1461655388.51.webp",
+            "large": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1461655388.51.webp",
+            "medium": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1461655388.51.webp"
+          },
+          "name_en": "Elizabeth Chai Vasarhelyi",
+          "name": "伊丽莎白·柴·瓦沙瑞莉",
+          "alt": "https://movie.douban.com/celebrity/1353324/",
+          "id": "1353324"
+        },
+        {
+          "avatars": {
+            "small": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1441133528.13.webp",
+            "large": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1441133528.13.webp",
+            "medium": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1441133528.13.webp"
+          },
+          "name_en": "Jimmy Chin",
+          "name": "金国威",
+          "alt": "https://movie.douban.com/celebrity/1351391/",
+          "id": "1351391"
+        }
+      ],
+      "pubdates": [
+        "2018-09-28(美国)",
+        "2019-09-06(中国大陆)"
+      ],
+      "year": "2018",
+      "images": {
+        "small": "http://img3.doubanio.com/view/photo/s_ratio_poster/public/p2566598269.webp",
+        "large": "http://img3.doubanio.com/view/photo/s_ratio_poster/public/p2566598269.webp",
+        "medium": "http://img3.doubanio.com/view/photo/s_ratio_poster/public/p2566598269.webp"
+      },
+      "alt": "https://movie.douban.com/subject/30167509/",
+      "id": "30167509"
+    }
+  ],
+  "title": "正在上映的电影-北京"
+}
