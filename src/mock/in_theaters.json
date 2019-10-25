@@ -1,7 +1,7 @@
 {
-  "count": 20,
+  "count": 18,
   "start": 0,
-  "total": 58,
+  "total": 59,
   "subjects": [
     {
       "rating": {
@@ -60,7 +60,7 @@
       "durations": [
         "135分钟"
       ],
-      "collect_count": 919,
+      "collect_count": 12121,
       "mainland_pubdate": "2019-10-25",
       "has_video": false,
       "original_title": "少年的你",
@@ -95,11 +95,11 @@
         "max": 10,
         "average": 7.1,
         "details": {
-          "1": 132,
-          "2": 1294,
-          "3": 9398,
-          "4": 9442,
-          "5": 2336
+          "1": 136,
+          "2": 1302,
+          "3": 9458,
+          "4": 9507,
+          "5": 2352
         },
         "stars": "35",
         "min": 0
@@ -148,7 +148,7 @@
       "durations": [
         "117分钟"
       ],
-      "collect_count": 114478,
+      "collect_count": 115851,
       "mainland_pubdate": "2019-10-18",
       "has_video": false,
       "original_title": "Gemini Man",
@@ -236,7 +236,7 @@
       "durations": [
         "94分钟"
       ],
-      "collect_count": 507,
+      "collect_count": 747,
       "mainland_pubdate": "2019-10-25",
       "has_video": false,
       "original_title": "催眠裁決",
@@ -294,11 +294,11 @@
         "max": 10,
         "average": 6.2,
         "details": {
-          "1": 199,
-          "2": 977,
-          "3": 2547,
-          "4": 1206,
-          "5": 368
+          "1": 200,
+          "2": 985,
+          "3": 2570,
+          "4": 1211,
+          "5": 372
         },
         "stars": "35",
         "min": 0
@@ -346,7 +346,7 @@
       "durations": [
         "119分钟"
       ],
-      "collect_count": 43446,
+      "collect_count": 44234,
       "mainland_pubdate": "2019-10-18",
       "has_video": false,
       "original_title": "Maleficent: Mistress of Evil",
@@ -383,10 +383,10 @@
         "average": 7.9,
         "details": {
           "1": 58,
-          "2": 195,
-          "3": 1272,
-          "4": 1786,
-          "5": 1577
+          "2": 200,
+          "3": 1283,
+          "4": 1797,
+          "5": 1587
         },
         "stars": "40",
         "min": 0
@@ -434,7 +434,7 @@
       "durations": [
         "101分钟"
       ],
-      "collect_count": 39309,
+      "collect_count": 39883,
       "mainland_pubdate": "2019-10-18",
       "has_video": false,
       "original_title": "ONE PIECE STAMPEDE",
@@ -521,7 +521,7 @@
       "durations": [
         "155分钟"
       ],
-      "collect_count": 463586,
+      "collect_count": 464692,
       "mainland_pubdate": "2019-09-30",
       "has_video": false,
       "original_title": "我和我的祖国",
@@ -624,8 +624,8 @@
         "details": {
           "1": 7,
           "2": 66,
-          "3": 600,
-          "4": 443,
+          "3": 604,
+          "4": 446,
           "5": 98
         },
         "stars": "35",
@@ -674,7 +674,7 @@
       "durations": [
         "105分钟"
       ],
-      "collect_count": 6698,
+      "collect_count": 6829,
       "mainland_pubdate": "2019-10-25",
       "has_video": false,
       "original_title": "Ittefaq",
@@ -763,7 +763,7 @@
       "durations": [
         "111分钟"
       ],
-      "collect_count": 320335,
+      "collect_count": 321063,
       "mainland_pubdate": "2019-09-30",
       "has_video": false,
       "original_title": "中国机长",
@@ -798,11 +798,11 @@
         "max": 10,
         "average": 5.3,
         "details": {
-          "1": 3094,
-          "2": 2209,
-          "3": 2798,
+          "1": 3100,
+          "2": 2217,
+          "3": 2801,
           "4": 1477,
-          "5": 1469
+          "5": 1470
         },
         "stars": "30",
         "min": 0
@@ -851,7 +851,7 @@
       "durations": [
         "101分钟"
       ],
-      "collect_count": 244856,
+      "collect_count": 245072,
       "mainland_pubdate": "2019-09-13",
       "has_video": false,
       "original_title": "诛仙 Ⅰ",
@@ -887,10 +887,10 @@
         "average": 6.7,
         "details": {
           "1": 30,
-          "2": 303,
-          "3": 2095,
-          "4": 1272,
-          "5": 207
+          "2": 304,
+          "3": 2101,
+          "4": 1274,
+          "5": 208
         },
         "stars": "35",
         "min": 0
@@ -939,7 +939,7 @@
       "durations": [
         "105分钟"
       ],
-      "collect_count": 26419,
+      "collect_count": 26577,
       "mainland_pubdate": "2019-10-12",
       "has_video": false,
       "original_title": "犯罪現場",
@@ -1027,7 +1027,7 @@
       "durations": [
         "125分钟"
       ],
-      "collect_count": 152940,
+      "collect_count": 153188,
       "mainland_pubdate": "2019-09-30",
       "has_video": false,
       "original_title": "攀登者",
@@ -1063,10 +1063,10 @@
         "average": 8.3,
         "details": {
           "1": 209,
-          "2": 828,
-          "3": 5749,
-          "4": 13622,
-          "5": 12120
+          "2": 829,
+          "3": 5763,
+          "4": 13654,
+          "5": 12135
         },
         "stars": "45",
         "min": 0
@@ -1115,7 +1115,7 @@
       "durations": [
         "101分钟"
       ],
-      "collect_count": 234601,
+      "collect_count": 235527,
       "mainland_pubdate": "2019-09-07",
       "has_video": true,
       "original_title": "罗小黑战记",
@@ -1204,7 +1204,7 @@
       "durations": [
         "86分钟"
       ],
-      "collect_count": 93,
+      "collect_count": 95,
       "mainland_pubdate": "2019-10-26",
       "has_video": false,
       "original_title": "Luis & the Aliens",
@@ -1314,7 +1314,7 @@
       "durations": [
         "90分钟"
       ],
-      "collect_count": 9,
+      "collect_count": 14,
       "mainland_pubdate": "2019-10-25",
       "has_video": false,
       "original_title": "太阳升起的时刻",
@@ -1400,7 +1400,7 @@
       "durations": [
         "88分钟"
       ],
-      "collect_count": 12,
+      "collect_count": 17,
       "mainland_pubdate": "2019-10-25",
       "has_video": false,
       "original_title": "单行道",
@@ -1487,7 +1487,7 @@
       "durations": [
         "116分钟"
       ],
-      "collect_count": 2176,
+      "collect_count": 2179,
       "mainland_pubdate": "2019-11-01",
       "has_video": false,
       "original_title": "六欲天",
@@ -1577,7 +1577,7 @@
         "102分钟",
         "96分钟(中国大陆)"
       ],
-      "collect_count": 821,
+      "collect_count": 823,
       "mainland_pubdate": "2019-10-18",
       "has_video": false,
       "original_title": "侠路相逢",
@@ -1614,9 +1614,9 @@
         "average": 7.5,
         "details": {
           "1": 14,
-          "2": 82,
-          "3": 664,
-          "4": 911,
+          "2": 81,
+          "3": 666,
+          "4": 912,
           "5": 382
         },
         "stars": "40",
@@ -1666,7 +1666,7 @@
       "durations": [
         "97分钟"
       ],
-      "collect_count": 12654,
+      "collect_count": 12686,
       "mainland_pubdate": "2019-10-01",
       "has_video": false,
       "original_title": "Abominable",
@@ -1708,191 +1708,6 @@
       },
       "alt": "https://movie.douban.com/subject/26929010/",
       "id": "26929010"
-    },
-    {
-      "rating": {
-        "max": 10,
-        "average": 0,
-        "details": {
-          "1": 0,
-          "2": 0,
-          "3": 0,
-          "4": 0,
-          "5": 0
-        },
-        "stars": "00",
-        "min": 0
-      },
-      "genres": [
-        "悬疑",
-        "惊悚"
-      ],
-      "title": "道具师",
-      "casts": [
-        {
-          "avatars": {
-            "small": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1554111173.12.webp",
-            "large": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1554111173.12.webp",
-            "medium": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1554111173.12.webp"
-          },
-          "name_en": "Zhenjiang Bao",
-          "name": "鲍振江",
-          "alt": "https://movie.douban.com/celebrity/1322071/",
-          "id": "1322071"
-        },
-        {
-          "avatars": {
-            "small": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1554111261.26.webp",
-            "large": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1554111261.26.webp",
-            "medium": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1554111261.26.webp"
-          },
-          "name_en": "Fei Lin",
-          "name": "林飞",
-          "alt": "https://movie.douban.com/celebrity/1413716/",
-          "id": "1413716"
-        },
-        {
-          "avatars": {
-            "small": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1554111299.64.webp",
-            "large": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1554111299.64.webp",
-            "medium": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1554111299.64.webp"
-          },
-          "name_en": "Yilin Wang",
-          "name": "王艺霖",
-          "alt": "https://movie.douban.com/celebrity/1413717/",
-          "id": "1413717"
-        }
-      ],
-      "durations": [
-        "80分钟"
-      ],
-      "collect_count": 44,
-      "mainland_pubdate": "2019-10-31",
-      "has_video": false,
-      "original_title": "道具师",
-      "subtype": "movie",
-      "directors": [
-        {
-          "avatars": {
-            "small": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1571898586.61.webp",
-            "large": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1571898586.61.webp",
-            "medium": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1571898586.61.webp"
-          },
-          "name_en": "Ziyue Du",
-          "name": "杜子曰",
-          "alt": "https://movie.douban.com/celebrity/1413711/",
-          "id": "1413711"
-        }
-      ],
-      "pubdates": [
-        "2019-10-31(中国大陆)"
-      ],
-      "year": "2019",
-      "images": {
-        "small": "http://img3.doubanio.com/view/photo/s_ratio_poster/public/p2565101658.webp",
-        "large": "http://img3.doubanio.com/view/photo/s_ratio_poster/public/p2565101658.webp",
-        "medium": "http://img3.doubanio.com/view/photo/s_ratio_poster/public/p2565101658.webp"
-      },
-      "alt": "https://movie.douban.com/subject/33391779/",
-      "id": "33391779"
-    },
-    {
-      "rating": {
-        "max": 10,
-        "average": 8.9,
-        "details": {
-          "1": 29,
-          "2": 124,
-          "3": 2187,
-          "4": 10814,
-          "5": 16331
-        },
-        "stars": "45",
-        "min": 0
-      },
-      "genres": [
-        "纪录片"
-      ],
-      "title": "徒手攀岩",
-      "casts": [
-        {
-          "avatars": {
-            "small": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1549054956.41.webp",
-            "large": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1549054956.41.webp",
-            "medium": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1549054956.41.webp"
-          },
-          "name_en": "Alex Honnold",
-          "name": "亚历克斯·霍诺德",
-          "alt": "https://movie.douban.com/celebrity/1362721/",
-          "id": "1362721"
-        },
-        {
-          "avatars": {
-            "small": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1551517469.28.webp",
-            "large": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1551517469.28.webp",
-            "medium": "http://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1551517469.28.webp"
-          },
-          "name_en": "Tommy Caldwell",
-          "name": "汤米·考德威尔",
-          "alt": "https://movie.douban.com/celebrity/1411935/",
-          "id": "1411935"
-        },
-        {
-          "avatars": {
-            "small": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1441133528.13.webp",
-            "large": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1441133528.13.webp",
-            "medium": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1441133528.13.webp"
-          },
-          "name_en": "Jimmy Chin",
-          "name": "金国威",
-          "alt": "https://movie.douban.com/celebrity/1351391/",
-          "id": "1351391"
-        }
-      ],
-      "durations": [
-        "100分钟"
-      ],
-      "collect_count": 109366,
-      "mainland_pubdate": "2019-09-06",
-      "has_video": true,
-      "original_title": "Free Solo",
-      "subtype": "movie",
-      "directors": [
-        {
-          "avatars": {
-            "small": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1461655388.51.webp",
-            "large": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1461655388.51.webp",
-            "medium": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1461655388.51.webp"
-          },
-          "name_en": "Elizabeth Chai Vasarhelyi",
-          "name": "伊丽莎白·柴·瓦沙瑞莉",
-          "alt": "https://movie.douban.com/celebrity/1353324/",
-          "id": "1353324"
-        },
-        {
-          "avatars": {
-            "small": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1441133528.13.webp",
-            "large": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1441133528.13.webp",
-            "medium": "http://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1441133528.13.webp"
-          },
-          "name_en": "Jimmy Chin",
-          "name": "金国威",
-          "alt": "https://movie.douban.com/celebrity/1351391/",
-          "id": "1351391"
-        }
-      ],
-      "pubdates": [
-        "2018-09-28(美国)",
-        "2019-09-06(中国大陆)"
-      ],
-      "year": "2018",
-      "images": {
-        "small": "http://img3.doubanio.com/view/photo/s_ratio_poster/public/p2566598269.webp",
-        "large": "http://img3.doubanio.com/view/photo/s_ratio_poster/public/p2566598269.webp",
-        "medium": "http://img3.doubanio.com/view/photo/s_ratio_poster/public/p2566598269.webp"
-      },
-      "alt": "https://movie.douban.com/subject/30167509/",
-      "id": "30167509"
     }
   ],
   "title": "正在上映的电影-北京"

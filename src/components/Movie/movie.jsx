@@ -7,7 +7,7 @@ const { Header, Content, Footer, Sider } = Layout;
 import {Route,Link} from "react-router-dom"
 
 import MovieList from "./movieView/MovieList.jsx"
-
+import MovieDetail from "./movieView/MovieDetail";
 
 export default class Movie extends Component{
     constructor(props){
@@ -26,17 +26,10 @@ export default class Movie extends Component{
         //         }
         // )
     }
-    // shouldComponentUpdate(nextProps, nextState, nextContext) {
-    //     //     console.log(window.location.hash.split("/"))
-    //     // }
-    // static getDerivedStateFromProps(nextProps, prevState){
-    //     console.log(window.location.hash.split("/"))
-    //     return null;
-    // }
     render(){
         return(
             <Layout style={{height:"100%"}}>
-                <Sider width={200} style={{ background: '#fff' }}>
+                <Sider width={240} style={{ background: '#fff' }}>
                     <Menu
                         mode="inline"
                         defaultSelectedKeys={window.location.hash.split("/")[2]}
@@ -47,9 +40,10 @@ export default class Movie extends Component{
                         <Menu.Item key="top250"><Link to="/movie/top250/1">Top250</Link></Menu.Item>
                     </Menu>
                 </Sider>
-                <Layout>
+                <Layout style={{ background: '#fff',marginLeft: "1px",padding:"40px 10px",boxSizing:"border-box" }}>
                     <Content>
                         <Route path="/movie/:type/:page" component={MovieList}></Route>
+                        <Route path="/movie/detail/:id" component={MovieDetail}/>
                     </Content>
                 </Layout>
             </Layout>
