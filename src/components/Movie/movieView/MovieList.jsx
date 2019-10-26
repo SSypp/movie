@@ -70,28 +70,28 @@ export default class MovieList extends Component{
     // 根据电影类型和页码，获取电影数据
     loadMovieListByTypeAndPage = () => {
 
-        // let start = this.state.pageSize * (this.state.nowPage - 1)
-        // let url = `http://api.douban.com/v2/movie/${this.props.match.params.type}?apikey=0df993c66c0c636e29ecbb5344252a4a&start=${start}&count=${this.state.pageSize}`
-        //
-        // fetchJsonp(url).then(res => {return res.json()}).then(
-        //     data => {
-        //         this.setState({
-        //             isLoading:false, //请求成功则消去loading效果
-        //             movies:data.subjects, //把拿到的电影列表数据赋
-        //             totalCount: data.total //总条数
-        //         })
-        //
-        //     }
-        // )
+        let start = this.state.pageSize * (this.state.nowPage - 1)
+        let url = `http://api.douban.com/v2/movie/${this.state.movieType}?apikey=0df993c66c0c636e29ecbb5344252a4a&start=${start}&count=${this.state.pageSize}`
 
-        const data = require(`../../../mock/${this.props.match.params.type}.json`)
-        setTimeout(() => {
-            this.setState({
-                isLoading:false, //请求成功则消去loading效果
-                movies:data.subjects, //把拿到的电影列表数据赋值
-                totalCount: data.total //总条数
-            })
-        },500)
+        fetchJsonp(url).then(res => {return res.json()}).then(
+            data => {
+                this.setState({
+                    isLoading:false, //请求成功则消去loading效果
+                    movies:data.subjects, //把拿到的电影列表数据赋
+                    totalCount: data.total //总条数
+                })
+
+            }
+        )
+
+        // const data = require(`../../../mock/${this.props.match.params.type}.json`)
+        // setTimeout(() => {
+        //     this.setState({
+        //         isLoading:false, //请求成功则消去loading效果
+        //         movies:data.subjects, //把拿到的电影列表数据赋值
+        //         totalCount: data.total //总条数
+        //     })
+        // },500)
 
     }
 
@@ -111,7 +111,7 @@ export default class MovieList extends Component{
                 <div>
                     <div style={{display:"flex",flexWrap:"wrap",justifyContent:"flex-start",marginBottom:"30px" }}>
                         {this.state.movies.map((item)=>{
-                            return <MovieListItem {...item} key={item.id}></MovieListItem>
+                            return <MovieListItem {...item} key={item.id} history={this.props.history}></MovieListItem>
                         })}
                     </div>
                     <Pagination defaultCurrent={this.state.nowPage}

@@ -4,10 +4,10 @@ import { Layout, Menu, Icon } from 'antd';
 const { SubMenu } = Menu;
 const { Header, Content, Footer, Sider } = Layout;
 
-import {Route,Link} from "react-router-dom"
+import {Route,Link,Switch} from "react-router-dom"
 
 import MovieList from "./movieView/MovieList.jsx"
-import MovieDetail from "./movieView/MovieDetail";
+import MovieDetail from "./movieView/MovieDetail.jsx";
 
 export default class Movie extends Component{
     constructor(props){
@@ -42,8 +42,11 @@ export default class Movie extends Component{
                 </Sider>
                 <Layout style={{ background: '#fff',marginLeft: "1px",padding:"40px 10px",boxSizing:"border-box" }}>
                     <Content>
-                        <Route path="/movie/:type/:page" component={MovieList}></Route>
-                        <Route path="/movie/detail/:id" component={MovieDetail}/>
+                        <Switch>
+                            {/*switch优先匹配到前面的路由规则，匹配到后则放弃后面的规则*/}
+                            <Route path="/movie/detail/:id" component={MovieDetail}></Route>
+                            <Route path="/movie/:type/:page" component={MovieList}></Route>
+                        </Switch>
                     </Content>
                 </Layout>
             </Layout>

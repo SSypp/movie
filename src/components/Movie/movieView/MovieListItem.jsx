@@ -10,7 +10,7 @@ export default class MovieListItem extends Component{
 
     render(){
         return(
-            <div className="box" >
+            <div className="box" onClick={this.getDetail} >
                 <img src={this.props.images.small} alt=""/>
                 <h4 title={this.props.title}>电影名称：{this.props.title}</h4>
                 <h4>上映时间：{this.props.mainland_pubdate}</h4>
@@ -23,7 +23,6 @@ export default class MovieListItem extends Component{
         )
     }
     ratingISNull = () => {
-
         if(this.props.rating.average == '0'){
             return (
                 <h4>未评分</h4>
@@ -33,6 +32,10 @@ export default class MovieListItem extends Component{
                 <Rate disabled defaultValue={this.props.rating.average / 2 } />
             )
         }
+    }
 
+    getDetail = () => {
+        // console.log(this.props.history)
+        this.props.history.push(`/movie/detail/` + this.props.id )
     }
 }

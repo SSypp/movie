@@ -1,0 +1,22 @@
+.detailStyle{
+  .movieDetail{
+    width: 500px;
+    height: 100%;
+    margin: 30px auto;
+    text-align: center;
+    p:first-child{
+      font-size: 32px;
+      font-weight: 800;
+    }
+    img{
+      width: 300px;
+      height: 400px;
+      text-align: center;
+    }
+    p:last-child{
+      margin-top: 20px;
+      text-indent: 2rem;
+      text-align: start;
+    }
+  }
+}

@@ -1,0 +1,631 @@
+{
+  "rating": {
+    "max": 10,
+    "average": 8.7,
+    "details": {
+      "1": 100,
+      "2": 89,
+      "3": 619,
+      "4": 3069,
+      "5": 3568
+    },
+    "stars": "45",
+    "min": 0
+  },
+  "reviews_count": 2877,
+  "videos": [],
+  "wish_count": 104567,
+  "original_title": "少年的你",
+  "blooper_urls": [
+    "http://vt1.doubanio.com/201910261156/e4a1b5826fadb1f854ad9b53909ec577/view/movie/M/302540529.mp4",
+    "http://vt1.doubanio.com/201910261156/2c61ce88dc77aef8cb0cc2e7fec4dbdd/view/movie/M/302490041.mp4",
+    "http://vt1.doubanio.com/201910261156/87acc294fa82137cb5d1af760cb5aeea/view/movie/M/302540530.mp4",
+    "http://vt1.doubanio.com/201910261156/fa723d5446c12109262b6b54c5568001/view/movie/M/302480518.mp4"
+  ],
+  "collect_count": 93128,
+  "images": {
+    "small": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2572160709.webp",
+    "large": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2572160709.webp",
+    "medium": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2572160709.webp"
+  },
+  "douban_site": "",
+  "year": "2019",
+  "popular_comments": [
+    {
+      "rating": {
+        "max": 5,
+        "value": 5,
+        "min": 0
+      },
+      "useful_count": 7563,
+      "author": {
+        "uid": "136717773",
+        "avatar": "https://img3.doubanio.com/icon/u136717773-12.jpg",
+        "signature": "",
+        "alt": "https://www.douban.com/people/136717773/",
+        "id": "136717773",
+        "name": "寻鹑上"
+      },
+      "subject_id": "30166972",
+      "content": "对易烊千玺本来是路人的，但是被他演技惊到了…真的，演的好，和周冬雨对视那场戏，我也跟着哭了。",
+      "created_at": "2019-10-25 09:44:39",
+      "id": "2012960504"
+    },
+    {
+      "rating": {
+        "max": 5,
+        "value": 5,
+        "min": 0
+      },
+      "useful_count": 4580,
+      "author": {
+        "uid": "189833635",
+        "avatar": "https://img3.doubanio.com/icon/u189833635-2.jpg",
+        "signature": "",
+        "alt": "https://www.douban.com/people/189833635/",
+        "id": "189833635",
+        "name": "你是猪"
+      },
+      "subject_id": "30166972",
+      "content": "这部电影真的太有心了，身在绝处的时候突然在眼前出现了一道光，小北和陈念是彼此生命中的那道光，小北不想让陈念在泥泞里，努力把她推向美好的未来的这个设定真的太戳我了，救赎向真的很感动。而两位主演也诠释的很好，所有情绪都很到位，周冬雨一如既往的好，四字弟弟是第一次登上大荧幕，也很让我敬佩，导演真的很有心，谢谢有这么好的电影出现，祝票房大卖。",
+      "created_at": "2019-10-25 09:40:23",
+      "id": "1690802024"
+    },
+    {
+      "rating": {
+        "max": 5,
+        "value": 1,
+        "min": 0
+      },
+      "useful_count": 1388,
+      "author": {
+        "uid": "133505673",
+        "avatar": "https://img3.doubanio.com/icon/u133505673-4.jpg",
+        "signature": "",
+        "alt": "https://www.douban.com/people/133505673/",
+        "id": "133505673",
+        "name": "今天也很仙"
+      },
+      "subject_id": "30166972",
+      "content": "典型的无病呻吟青春疼痛片 一点都不接地气 矫情的一米",
+      "created_at": "2019-10-25 10:48:04",
+      "id": "2013024756"
+    },
+    {
+      "rating": {
+        "max": 5,
+        "value": 5,
+        "min": 0
+      },
+      "useful_count": 3629,
+      "author": {
+        "uid": "150364672",
+        "avatar": "https://img9.doubanio.com/icon/u150364672-6.jpg",
+        "signature": "",
+        "alt": "https://www.douban.com/people/150364672/",
+        "id": "150364672",
+        "name": "问章北海要信仰"
+      },
+      "subject_id": "30166972",
+      "content": "你们很好，不需要任何人祈祷。但我祈祷，你们能被更多人看到。念，一念地狱、一念小北",
+      "created_at": "2019-10-25 09:36:35",
+      "id": "2012953106"
+    }
+  ],
+  "alt": "https://movie.douban.com/subject/30166972/",
+  "id": "30166972",
+  "mobile_url": "https://movie.douban.com/subject/30166972/mobile",
+  "photos_count": 212,
+  "pubdate": "2019-10-25",
+  "title": "少年的你",
+  "do_count": null,
+  "has_video": false,
+  "share_url": "https://m.douban.com/movie/subject/30166972",
+  "seasons_count": null,
+  "languages": [
+    "汉语普通话"
+  ],
+  "schedule_url": "https://movie.douban.com/subject/30166972/cinema/",
+  "writers": [
+    {
+      "avatars": {
+        "small": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1467971970.63.webp",
+        "large": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1467971970.63.webp",
+        "medium": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1467971970.63.webp"
+      },
+      "name_en": "Lam Wing Sum",
+      "name": "林咏琛",
+      "alt": "https://movie.douban.com/celebrity/1359881/",
+      "id": "1359881"
+    },
+    {
+      "avatars": {
+        "small": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1536115768.59.webp",
+        "large": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1536115768.59.webp",
+        "medium": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1536115768.59.webp"
+      },
+      "name_en": "Yuan Li",
+      "name": "李媛",
+      "alt": "https://movie.douban.com/celebrity/1359882/",
+      "id": "1359882"
+    },
+    {
+      "avatars": {
+        "small": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1473056786.84.webp",
+        "large": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1473056786.84.webp",
+        "medium": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1473056786.84.webp"
+      },
+      "name_en": "Yimeng Xu",
+      "name": "许伊萌",
+      "alt": "https://movie.douban.com/celebrity/1330070/",
+      "id": "1330070"
+    }
+  ],
+  "pubdates": [
+    "2019-10-25(中国大陆)"
+  ],
+  "website": "",
+  "tags": [
+    "青春",
+    "校园暴力",
+    "校园霸凌",
+    "成长",
+    "校园",
+    "2019",
+    "中国大陆",
+    "爱情",
+    "人性",
+    "剧情"
+  ],
+  "has_schedule": true,
+  "durations": [
+    "135分钟"
+  ],
+  "genres": [
+    "剧情",
+    "爱情"
+  ],
+  "collection": null,
+  "trailers": [
+    {
+      "medium": "https://img1.doubanio.com/img/trailer/medium/2572167768.jpg?1571732851",
+      "title": "预告片：新档期陈念版 (中文字幕)",
+      "subject_id": "30166972",
+      "alt": "https://movie.douban.com/trailer/254528/",
+      "small": "https://img1.doubanio.com/img/trailer/small/2572167768.jpg?1571732851",
+      "resource_url": "http://vt1.doubanio.com/201910261156/2a8fb5426a5ce9a51d430ed12ff51f05/view/movie/M/302540528.mp4",
+      "id": "254528"
+    },
+    {
+      "medium": "https://img9.doubanio.com/img/trailer/medium/2572167616.jpg?1571732887",
+      "title": "预告片：新档期小北版 (中文字幕)",
+      "subject_id": "30166972",
+      "alt": "https://movie.douban.com/trailer/254527/",
+      "small": "https://img9.doubanio.com/img/trailer/small/2572167616.jpg?1571732887",
+      "resource_url": "http://vt1.doubanio.com/201910261156/71860e0819b4bce4cbabc690299a14e9/view/movie/M/302540527.mp4",
+      "id": "254527"
+    },
+    {
+      "medium": "https://img3.doubanio.com/img/trailer/medium/2572167122.jpg?1571732974",
+      "title": "预告片：新档期超前版 (中文字幕)",
+      "subject_id": "30166972",
+      "alt": "https://movie.douban.com/trailer/254523/",
+      "small": "https://img3.doubanio.com/img/trailer/small/2572167122.jpg?1571732974",
+      "resource_url": "http://vt1.doubanio.com/201910261156/84cca5f1525ff09953c59cdfbb964948/view/movie/M/302540523.mp4",
+      "id": "254523"
+    },
+    {
+      "medium": "https://img1.doubanio.com/img/trailer/medium/2558074299.jpg?",
+      "title": "预告片：小北版",
+      "subject_id": "30166972",
+      "alt": "https://movie.douban.com/trailer/247783/",
+      "small": "https://img1.doubanio.com/img/trailer/small/2558074299.jpg?",
+      "resource_url": "http://vt1.doubanio.com/201910261156/189560fad0aa4db6c82d3f3c3727dc8b/view/movie/M/302470783.mp4",
+      "id": "247783"
+    }
+  ],
+  "episodes_count": null,
+  "trailer_urls": [
+    "http://vt1.doubanio.com/201910261156/2a8fb5426a5ce9a51d430ed12ff51f05/view/movie/M/302540528.mp4",
+    "http://vt1.doubanio.com/201910261156/71860e0819b4bce4cbabc690299a14e9/view/movie/M/302540527.mp4",
+    "http://vt1.doubanio.com/201910261156/84cca5f1525ff09953c59cdfbb964948/view/movie/M/302540523.mp4",
+    "http://vt1.doubanio.com/201910261156/189560fad0aa4db6c82d3f3c3727dc8b/view/movie/M/302470783.mp4"
+  ],
+  "has_ticket": true,
+  "bloopers": [
+    {
+      "medium": "https://img3.doubanio.com/img/trailer/medium/2572169300.jpg?1571735006",
+      "title": "花絮：新档期剧组特辑 (中文字幕)",
+      "subject_id": "30166972",
+      "alt": "https://movie.douban.com/trailer/254529/",
+      "small": "https://img3.doubanio.com/img/trailer/small/2572169300.jpg?1571735006",
+      "resource_url": "http://vt1.doubanio.com/201910261156/e4a1b5826fadb1f854ad9b53909ec577/view/movie/M/302540529.mp4",
+      "id": "254529"
+    },
+    {
+      "medium": "https://img3.doubanio.com/img/trailer/medium/2560752883.jpg?",
+      "title": "花絮：剧组特辑 (中文字幕)",
+      "subject_id": "30166972",
+      "alt": "https://movie.douban.com/trailer/249041/",
+      "small": "https://img3.doubanio.com/img/trailer/small/2560752883.jpg?",
+      "resource_url": "http://vt1.doubanio.com/201910261156/2c61ce88dc77aef8cb0cc2e7fec4dbdd/view/movie/M/302490041.mp4",
+      "id": "249041"
+    },
+    {
+      "medium": "https://img1.doubanio.com/img/trailer/medium/2572171249.jpg?1571735137",
+      "title": "MV：新档期主题曲《我们很好》 (中文字幕)",
+      "subject_id": "30166972",
+      "alt": "https://movie.douban.com/trailer/254530/",
+      "small": "https://img1.doubanio.com/img/trailer/small/2572171249.jpg?1571735137",
+      "resource_url": "http://vt1.doubanio.com/201910261156/87acc294fa82137cb5d1af760cb5aeea/view/movie/M/302540530.mp4",
+      "id": "254530"
+    },
+    {
+      "medium": "https://img1.doubanio.com/img/trailer/medium/2559584798.jpg?",
+      "title": "MV：林俊杰献唱主题曲《我们很好》 (中文字幕)",
+      "subject_id": "30166972",
+      "alt": "https://movie.douban.com/trailer/248518/",
+      "small": "https://img1.doubanio.com/img/trailer/small/2559584798.jpg?",
+      "resource_url": "http://vt1.doubanio.com/201910261156/fa723d5446c12109262b6b54c5568001/view/movie/M/302480518.mp4",
+      "id": "248518"
+    }
+  ],
+  "clip_urls": [],
+  "current_season": null,
+  "casts": [
+    {
+      "avatars": {
+        "small": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p36798.webp",
+        "large": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p36798.webp",
+        "medium": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p36798.webp"
+      },
+      "name_en": "Dongyu Zhou",
+      "name": "周冬雨",
+      "alt": "https://movie.douban.com/celebrity/1274224/",
+      "id": "1274224"
+    },
+    {
+      "avatars": {
+        "small": "https://img9.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1507879990.66.webp",
+        "large": "https://img9.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1507879990.66.webp",
+        "medium": "https://img9.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1507879990.66.webp"
+      },
+      "name_en": "Jackson Yee",
+      "name": "易烊千玺",
+      "alt": "https://movie.douban.com/celebrity/1340022/",
+      "id": "1340022"
+    },
+    {
+      "avatars": {
+        "small": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1561012942.87.webp",
+        "large": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1561012942.87.webp",
+        "medium": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1561012942.87.webp"
+      },
+      "name_en": "Fang Yin",
+      "name": "尹昉",
+      "alt": "https://movie.douban.com/celebrity/1340310/",
+      "id": "1340310"
+    },
+    {
+      "avatars": {
+        "small": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1547714782.75.webp",
+        "large": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1547714782.75.webp",
+        "medium": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1547714782.75.webp"
+      },
+      "name_en": "Jue Huang",
+      "name": "黄觉",
+      "alt": "https://movie.douban.com/celebrity/1275273/",
+      "id": "1275273"
+    }
+  ],
+  "countries": [
+    "中国大陆"
+  ],
+  "mainland_pubdate": "2019-10-25",
+  "photos": [
+    {
+      "thumb": "https://img3.doubanio.com/view/photo/m/public/p2528843981.webp",
+      "image": "https://img3.doubanio.com/view/photo/l/public/p2528843981.webp",
+      "cover": "https://img3.doubanio.com/view/photo/sqs/public/p2528843981.webp",
+      "alt": "https://movie.douban.com/photos/photo/2528843981/",
+      "id": "2528843981",
+      "icon": "https://img3.doubanio.com/view/photo/s/public/p2528843981.webp"
+    },
+    {
+      "thumb": "https://img1.doubanio.com/view/photo/m/public/p2556467478.webp",
+      "image": "https://img1.doubanio.com/view/photo/l/public/p2556467478.webp",
+      "cover": "https://img1.doubanio.com/view/photo/sqs/public/p2556467478.webp",
+      "alt": "https://movie.douban.com/photos/photo/2556467478/",
+      "id": "2556467478",
+      "icon": "https://img1.doubanio.com/view/photo/s/public/p2556467478.webp"
+    },
+    {
+      "thumb": "https://img3.doubanio.com/view/photo/m/public/p2559851164.webp",
+      "image": "https://img3.doubanio.com/view/photo/l/public/p2559851164.webp",
+      "cover": "https://img3.doubanio.com/view/photo/sqs/public/p2559851164.webp",
+      "alt": "https://movie.douban.com/photos/photo/2559851164/",
+      "id": "2559851164",
+      "icon": "https://img3.doubanio.com/view/photo/s/public/p2559851164.webp"
+    },
+    {
+      "thumb": "https://img1.doubanio.com/view/photo/m/public/p2533775878.webp",
+      "image": "https://img1.doubanio.com/view/photo/l/public/p2533775878.webp",
+      "cover": "https://img1.doubanio.com/view/photo/sqs/public/p2533775878.webp",
+      "alt": "https://movie.douban.com/photos/photo/2533775878/",
+      "id": "2533775878",
+      "icon": "https://img1.doubanio.com/view/photo/s/public/p2533775878.webp"
+    },
+    {
+      "thumb": "https://img3.doubanio.com/view/photo/m/public/p2572404465.webp",
+      "image": "https://img3.doubanio.com/view/photo/l/public/p2572404465.webp",
+      "cover": "https://img3.doubanio.com/view/photo/sqs/public/p2572404465.webp",
+      "alt": "https://movie.douban.com/photos/photo/2572404465/",
+      "id": "2572404465",
+      "icon": "https://img3.doubanio.com/view/photo/s/public/p2572404465.webp"
+    },
+    {
+      "thumb": "https://img1.doubanio.com/view/photo/m/public/p2572404449.webp",
+      "image": "https://img1.doubanio.com/view/photo/l/public/p2572404449.webp",
+      "cover": "https://img1.doubanio.com/view/photo/sqs/public/p2572404449.webp",
+      "alt": "https://movie.douban.com/photos/photo/2572404449/",
+      "id": "2572404449",
+      "icon": "https://img1.doubanio.com/view/photo/s/public/p2572404449.webp"
+    },
+    {
+      "thumb": "https://img3.doubanio.com/view/photo/m/public/p2572165954.webp",
+      "image": "https://img3.doubanio.com/view/photo/l/public/p2572165954.webp",
+      "cover": "https://img3.doubanio.com/view/photo/sqs/public/p2572165954.webp",
+      "alt": "https://movie.douban.com/photos/photo/2572165954/",
+      "id": "2572165954",
+      "icon": "https://img3.doubanio.com/view/photo/s/public/p2572165954.webp"
+    },
+    {
+      "thumb": "https://img1.doubanio.com/view/photo/m/public/p2557595568.webp",
+      "image": "https://img1.doubanio.com/view/photo/l/public/p2557595568.webp",
+      "cover": "https://img1.doubanio.com/view/photo/sqs/public/p2557595568.webp",
+      "alt": "https://movie.douban.com/photos/photo/2557595568/",
+      "id": "2557595568",
+      "icon": "https://img1.doubanio.com/view/photo/s/public/p2557595568.webp"
+    },
+    {
+      "thumb": "https://img1.doubanio.com/view/photo/m/public/p2546068467.webp",
+      "image": "https://img1.doubanio.com/view/photo/l/public/p2546068467.webp",
+      "cover": "https://img1.doubanio.com/view/photo/sqs/public/p2546068467.webp",
+      "alt": "https://movie.douban.com/photos/photo/2546068467/",
+      "id": "2546068467",
+      "icon": "https://img1.doubanio.com/view/photo/s/public/p2546068467.webp"
+    },
+    {
+      "thumb": "https://img9.doubanio.com/view/photo/m/public/p2545891206.webp",
+      "image": "https://img9.doubanio.com/view/photo/l/public/p2545891206.webp",
+      "cover": "https://img9.doubanio.com/view/photo/sqs/public/p2545891206.webp",
+      "alt": "https://movie.douban.com/photos/photo/2545891206/",
+      "id": "2545891206",
+      "icon": "https://img9.doubanio.com/view/photo/s/public/p2545891206.webp"
+    }
+  ],
+  "summary": "一场高考前夕的校园意外，改变了两个少年的命运。\n陈念性格内向，是学校里的优等生，努力复习、考上好大学是高三的她唯一的念头。同班同学的意外坠楼牵扯出一连串不为人知的故事，陈念也被一点点卷入其中…在她最孤独的时刻，一个叫“小北”的少年闯入了她的世界…\n大多数人的18岁都是明媚、快乐的，而他们却在18岁这个夏天提前尝到了成人世界的漠然。一场秘而不宣的“战斗”正在上演，他们将一起守护少年的尊严。",
+  "clips": [],
+  "subtype": "movie",
+  "directors": [
+    {
+      "avatars": {
+        "small": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1519542625.12.webp",
+        "large": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1519542625.12.webp",
+        "medium": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1519542625.12.webp"
+      },
+      "name_en": "Derek Tsang",
+      "name": "曾国祥",
+      "alt": "https://movie.douban.com/celebrity/1274534/",
+      "id": "1274534"
+    }
+  ],
+  "comments_count": 48624,
+  "popular_reviews": [
+    {
+      "rating": {
+        "max": 5,
+        "value": 4,
+        "min": 0
+      },
+      "title": "可惜，我们没有保护好《少年的你》",
+      "subject_id": "30166972",
+      "author": {
+        "uid": "48369193",
+        "avatar": "https://img9.doubanio.com/icon/u48369193-16.jpg",
+        "signature": "",
+        "alt": "https://www.douban.com/people/48369193/",
+        "id": "48369193",
+        "name": "二十二岛主"
+      },
+      "summary": "本文首发于公众号：电影岛赏（j_movie），欢迎关注。 终于看到《少年的你》了。 之所以说“终于”，是因为我与这个电影擦肩而过了两次。一次是在今年年初的柏林电影节，三部最期待的华语影片最终只看到了《地久天...",
+      "alt": "https://movie.douban.com/review/10597257/",
+      "id": "10597257"
+    },
+    {
+      "rating": {
+        "max": 5,
+        "value": 4,
+        "min": 0
+      },
+      "title": "《少年的你》：欠你一场迈过盛夏的同行",
+      "subject_id": "30166972",
+      "author": {
+        "uid": "xilouchen",
+        "avatar": "https://img3.doubanio.com/icon/u49290419-30.jpg",
+        "signature": "我们能不能停下不看电影",
+        "alt": "https://www.douban.com/people/xilouchen/",
+        "id": "49290419",
+        "name": "西楼尘"
+      },
+      "summary": "2010年6月的盛夏，我清早来到教室，发现同桌同学的书桌桌肚里被恶意洒满了酸奶。那酸奶粘稠地蔓延在她的作业、课本、桌椅上，散发出令人作呕的腐臭。我清楚地记得，那天距离高考只剩6天。 我并不特别意外，毕竟高...",
+      "alt": "https://movie.douban.com/review/10598322/",
+      "id": "10598322"
+    },
+    {
+      "rating": {
+        "max": 5,
+        "value": 1,
+        "min": 0
+      },
+      "title": "抄袭作",
+      "subject_id": "30166972",
+      "author": {
+        "uid": "142844228",
+        "avatar": "https://img1.doubanio.com/icon/u142844228-8.jpg",
+        "signature": "",
+        "alt": "https://www.douban.com/people/142844228/",
+        "id": "142844228",
+        "name": "已注销"
+      },
+      "summary": "10.26 0:57更新 有的朋友质疑电影与被抄袭原作并不相近，事实上，剧本由编剧进行了深度的再创作，与原书差别很大，而原书广为流传的抄袭之名，各位可自行求证，自由心证。 如此，可能有的朋友就会认为剧本既然与...",
+      "alt": "https://movie.douban.com/review/10598634/",
+      "id": "10598634"
+    },
+    {
+      "rating": {
+        "max": 5,
+        "value": 1,
+        "min": 0
+      },
+      "title": "一部非常好的东野圭吾精选集改编电影",
+      "subject_id": "30166972",
+      "author": {
+        "uid": "130289758",
+        "avatar": "https://img3.doubanio.com/icon/u130289758-1.jpg",
+        "signature": "",
+        "alt": "https://www.douban.com/people/130289758/",
+        "id": "130289758",
+        "name": "山阿"
+      },
+      "summary": "这部电影又名《资本的力量》，改编自经典电影及小说爱好者玖月晞女士自编的《东野圭吾精选集》，其书选文甚博，不仅有《嫌疑人X》，还选入了《恶意》和《白夜行》。生怕不能取悦粉丝，便又揉杂了各个其他作者的心...",
+      "alt": "https://movie.douban.com/review/10598881/",
+      "id": "10598881"
+    },
+    {
+      "rating": {
+        "max": 5,
+        "value": 5,
+        "min": 0
+      },
+      "title": "《少年的你》：致陈念，致周冬雨",
+      "subject_id": "30166972",
+      "author": {
+        "uid": "ruo1996",
+        "avatar": "https://img3.doubanio.com/icon/u52623934-34.jpg",
+        "signature": "24.",
+        "alt": "https://www.douban.com/people/ruo1996/",
+        "id": "52623934",
+        "name": "徐若风"
+      },
+      "summary": "《少年的你》，一部出乎我意料的电影。 可以明显地看到，曾国祥在这部作品中对前作《七月与安生》的继承与改变——仍旧是大段的手持、人物大特写，仍旧是在层次复杂的大胆反转中揭示人物最深的情感。但不一样的是...",
+      "alt": "https://movie.douban.com/review/10599470/",
+      "id": "10599470"
+    },
+    {
+      "rating": {
+        "max": 5,
+        "value": 2,
+        "min": 0
+      },
+      "title": "让你产生共情的只是校园暴力，不是这部影片",
+      "subject_id": "30166972",
+      "author": {
+        "uid": "104443608",
+        "avatar": "https://img3.doubanio.com/icon/u104443608-5.jpg",
+        "signature": "自觉文青",
+        "alt": "https://www.douban.com/people/104443608/",
+        "id": "104443608",
+        "name": "朱红.明黄"
+      },
+      "summary": "目前为止片子的评分是8.7分，但我相信不止一个人觉得它不值这个分。 片子以校园暴力作为选题，比较新颖，符合当下的校园问题。但校园暴力只出现在影片的前半段，后半段基本在演一场刑事案件，除了镜头和音响在提...",
+      "alt": "https://movie.douban.com/review/10598211/",
+      "id": "10598211"
+    },
+    {
+      "rating": {
+        "max": 5,
+        "value": 2,
+        "min": 0
+      },
+      "title": "前半段接近满分，后半段流于俗套",
+      "subject_id": "30166972",
+      "author": {
+        "uid": "172271863",
+        "avatar": "https://img3.doubanio.com/icon/u172271863-1.jpg",
+        "signature": "",
+        "alt": "https://www.douban.com/people/172271863/",
+        "id": "172271863",
+        "name": "姜汁芬达"
+      },
+      "summary": "不多说废话，先说优点，再说缺点。 第一：“脸部” 面部，是人类情绪最集中的地方，这部电影很好地诠释了这一点， 1.周冬雨给胡小蝶披上校服，回头凝视正在拍照的学生，那个瞬间被一个手机屏幕定格，下一个镜头，...",
+      "alt": "https://movie.douban.com/review/10598819/",
+      "id": "10598819"
+    },
+    {
+      "rating": {
+        "max": 5,
+        "value": 5,
+        "min": 0
+      },
+      "title": "我们很好",
+      "subject_id": "30166972",
+      "author": {
+        "uid": "188510557",
+        "avatar": "https://img3.doubanio.com/icon/u188510557-3.jpg",
+        "signature": "",
+        "alt": "https://www.douban.com/people/188510557/",
+        "id": "188510557",
+        "name": "酱汁面面"
+      },
+      "summary": "走进电影院之前，本以为这是一部青春疼痛片，会着墨于他们无关痛痒的少年时期。但当我坐在厅内才发现，这个故事，其实离我们很近，大概是每个人生活中都或多或少会经历过的，每个人都曾有过逆境，也曾像他们一样...",
+      "alt": "https://movie.douban.com/review/10596902/",
+      "id": "10596902"
+    },
+    {
+      "rating": {
+        "max": 5,
+        "value": 4,
+        "min": 0
+      },
+      "title": "你保护世界，我保护你。",
+      "subject_id": "30166972",
+      "author": {
+        "uid": "lingrui1995",
+        "avatar": "https://img1.doubanio.com/icon/u63688511-18.jpg",
+        "signature": "一个影迷",
+        "alt": "https://www.douban.com/people/lingrui1995/",
+        "id": "63688511",
+        "name": "凌睿"
+      },
+      "summary": "今年1月，《少年的你》入围柏林新生代单元，然而后来官方却宣布退出柏林展映。 5月，《少年的你》宣布定档6月27日，最终还是没能如期上映。 10月22日，《少年的你》突然宣布重新定档10月25日。 几经折腾，这部电...",
+      "alt": "https://movie.douban.com/review/10599224/",
+      "id": "10599224"
+    },
+    {
+      "rating": {
+        "max": 5,
+        "value": 5,
+        "min": 0
+      },
+      "title": "愿你被世界温柔以待",
+      "subject_id": "30166972",
+      "author": {
+        "uid": "152290665",
+        "avatar": "https://img3.doubanio.com/icon/u152290665-2.jpg",
+        "signature": "",
+        "alt": "https://www.douban.com/people/152290665/",
+        "id": "152290665",
+        "name": "王晶"
+      },
+      "summary": "《少年的你》是一部反映现实的电影，辐射了高考背景下的考生心理和原生家庭对孩子的影响。这是一个青春期少年们从迷惘孤独，走向彼此救赎，终与世界和解的成长故事。 看过一句话，“人们大部分怪异行为，归根结底...",
+      "alt": "https://movie.douban.com/review/10596887/",
+      "id": "10596887"
+    }
+  ],
+  "ratings_count": 90939,
+  "aka": [
+    "少年的你，如此美丽",
+    "Better Days"
+  ]
+}
